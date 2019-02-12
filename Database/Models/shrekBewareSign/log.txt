@@ -1,0 +1,5 @@
+Starting Geosetanims
+Starting bones
+Defining bone objects
+Fixing bone positions
+Starting default stuff
