@@ -1,0 +1,22 @@
+how to use and patch info
+
+Place the patches in your Data folder to see everything in action, if you wanna join, just tell us and make a patch based off your name letter
+
+the patches atm are
+
+Patch-A	:	Interface and database files
+Patch-B	:	Bustas patch
+Patch-C	:	canas patch
+Patch-G	:	gios patch
+Patch-M	:	murlocs patch
+Patch-S	:	Game model sounds and texture files	(the s is for shrek)
+
+dont put anything in patch a and s but keep to your respective patches pls
+for cleanliness sake, put your models and relevant textures in ShrekModels\yourname\whateverthefuckyouwant in your relevant patch.
+if doing other funky shit, know what the directory your putting in is and what your replacing
+
+the MPQ structure is just everything i have compiled upto 2.16.19, its essentially the patches but im a folder directory so you can all see the layout
+
+would reccomend starting an organisation system for this, or a seperate folder for just user generated content instead of replacement files
+
+Server stuff is a lot but is just for Helio to compile
