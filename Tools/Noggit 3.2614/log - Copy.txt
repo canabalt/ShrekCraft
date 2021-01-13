@@ -1,0 +1,1231 @@
+220 - (application.cpp:213): Noggit Studio - 3.2614
+222 - (application.cpp:237): Game path: "I:/Wow Modding 2018/World of Warcraft Client 3.3.5a - Ready to Play"
+222 - (application.cpp:242): Project path: I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/
+222 - (application.cpp:114): Locale: enGB
+246 - (MPQ.cpp:54): [Debug] Opened archive I:/Wow Modding 2018/World of Warcraft Client 3.3.5a - Ready to Play\Data\common.MPQ
+262 - (MPQ.cpp:54): [Debug] Opened archive I:/Wow Modding 2018/World of Warcraft Client 3.3.5a - Ready to Play\Data\common-2.MPQ
+267 - (MPQ.cpp:54): [Debug] Opened archive I:/Wow Modding 2018/World of Warcraft Client 3.3.5a - Ready to Play\Data\expansion.MPQ
+272 - (MPQ.cpp:54): [Debug] Opened archive I:/Wow Modding 2018/World of Warcraft Client 3.3.5a - Ready to Play\Data\lichking.MPQ
+285 - (MPQ.cpp:54): [Debug] Opened archive I:/Wow Modding 2018/World of Warcraft Client 3.3.5a - Ready to Play\Data\patch.MPQ
+288 - (MPQ.cpp:54): [Debug] Opened archive I:/Wow Modding 2018/World of Warcraft Client 3.3.5a - Ready to Play\Data\patch-2.MPQ
+289 - (MPQ.cpp:54): [Debug] Opened archive I:/Wow Modding 2018/World of Warcraft Client 3.3.5a - Ready to Play\Data\patch-3.MPQ
+290 - (MPQ.cpp:54): [Debug] Opened archive I:/Wow Modding 2018/World of Warcraft Client 3.3.5a - Ready to Play\Data\patch-a.MPQ
+292 - (MPQ.cpp:54): [Debug] Opened archive I:/Wow Modding 2018/World of Warcraft Client 3.3.5a - Ready to Play\Data\patch-s.MPQ
+294 - (MPQ.cpp:54): [Debug] Opened archive I:/Wow Modding 2018/World of Warcraft Client 3.3.5a - Ready to Play\Data\enGB/locale-enGB.MPQ
+295 - (MPQ.cpp:54): [Debug] Opened archive I:/Wow Modding 2018/World of Warcraft Client 3.3.5a - Ready to Play\Data\enGB/expansion-locale-enGB.MPQ
+295 - (MPQ.cpp:54): [Debug] Opened archive I:/Wow Modding 2018/World of Warcraft Client 3.3.5a - Ready to Play\Data\enGB/lichking-locale-enGB.MPQ
+296 - (MPQ.cpp:54): [Debug] Opened archive I:/Wow Modding 2018/World of Warcraft Client 3.3.5a - Ready to Play\Data\enGB/patch-enGB.MPQ
+297 - (MPQ.cpp:54): [Debug] Opened archive I:/Wow Modding 2018/World of Warcraft Client 3.3.5a - Ready to Play\Data\enGB/patch-enGB-2.MPQ
+297 - (MPQ.cpp:54): [Debug] Opened archive I:/Wow Modding 2018/World of Warcraft Client 3.3.5a - Ready to Play\Data\enGB/patch-enGB-3.MPQ
+451 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\AreaTable.dbc"
+591 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\Map.dbc"
+662 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\LoadingScreens.dbc"
+672 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\Light.dbc"
+673 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\LightParams.dbc"
+690 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\LightSkybox.dbc"
+693 - (MPQ.cpp:106): [Debug] Completed listfile loading: 202354 files
+708 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\LightIntBand.dbc"
+711 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\LightFloatBand.dbc"
+712 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\GroundEffectDoodad.dbc"
+715 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\GroundEffectTexture.dbc"
+716 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\LiquidType.dbc"
+995 - (application.cpp:278): [Debug] GL: Version: 4.6.0 NVIDIA 417.01
+995 - (application.cpp:279): [Debug] GL: Vendor: NVIDIA Corporation
+995 - (application.cpp:280): [Debug] GL: Renderer: GeForce GTX 780/PCIe/SSE2
+1141 - (main_window.cpp:261): [Debug] No bookmarks file.
+1861 - (World.cpp:230): World 451: development has no WDT file!
+2012 - (World.cpp:230): World 582: Transport176244 has no WDT file!
+2012 - (World.cpp:230): World 584: Transport176231 has no WDT file!
+2017 - (World.cpp:230): World 586: Transport181645 has no WDT file!
+2017 - (World.cpp:230): World 587: Transport177233 has no WDT file!
+2017 - (World.cpp:230): World 588: Transport176310 has no WDT file!
+2017 - (World.cpp:230): World 589: Transport175080 has no WDT file!
+2017 - (World.cpp:230): World 590: Transport176495 has no WDT file!
+2018 - (World.cpp:230): World 591: Transport164871 has no WDT file!
+2018 - (World.cpp:230): World 592: Transport186238 has no WDT file!
+2018 - (World.cpp:230): World 593: Transport20808 has no WDT file!
+2018 - (World.cpp:230): World 594: Transport187038 has no WDT file!
+2024 - (World.cpp:230): World 596: Transport187263 has no WDT file!
+2099 - (World.cpp:230): World 610: Transport_Tirisfal _Vengeance_Landing has no WDT file!
+2099 - (World.cpp:230): World 612: Transport_Menethil_Valgarde has no WDT file!
+2099 - (World.cpp:230): World 613: Transport_Orgrimmar_Warsong_Hold has no WDT file!
+2099 - (World.cpp:230): World 614: Transport_Stormwind_Valiance_Keep has no WDT file!
+2124 - (World.cpp:230): World 620: Transport_Moa'ki_Unu'pe has no WDT file!
+2124 - (World.cpp:230): World 621: Transport_Moa'ki_Kamagua has no WDT file!
+2124 - (World.cpp:230): World 622: Transport192241 has no WDT file!
+2124 - (World.cpp:230): World 623: Transport192242 has no WDT file!
+2134 - (World.cpp:230): World 641: Transport_AllianceAirshipBG has no WDT file!
+2134 - (World.cpp:230): World 642: Transport_HordeAirshipBG has no WDT file!
+2134 - (World.cpp:230): World 647: Transport_Orgrimmar_to_Thunderbluff has no WDT file!
+2135 - (World.cpp:230): World 672: Transport197347 has no WDT file!
+2135 - (World.cpp:230): World 673: Transport197348 has no WDT file!
+2135 - (World.cpp:230): World 712: Transport197349 has no WDT file!
+2135 - (World.cpp:230): World 713: Transport197350 has no WDT file!
+2135 - (World.cpp:230): World 718: Transport201834 has no WDT file!
+2136 - (World.cpp:230): World 725: Vaalbara has no WDT file!
+24416 - (World.cpp:277): [Debug] Loading world "Zul'gurub".
+27791 - (MapTile.cpp:51): Opening tile 35, 54 ("World\Maps\Zul'gurub\Zul'gurub_35_54.adt") from MPQ.
+27859 - (MapTile.cpp:303): [Debug] Done loading tile 35,54.
+27886 - (MapTile.cpp:51): Opening tile 34, 53 ("World\Maps\Zul'gurub\Zul'gurub_34_53.adt") from MPQ.
+27899 - (MapTile.cpp:51): Opening tile 35, 53 ("World\Maps\Zul'gurub\Zul'gurub_35_53.adt") from MPQ.
+27955 - (MapTile.cpp:303): [Debug] Done loading tile 34,53.
+27963 - (MapTile.cpp:303): [Debug] Done loading tile 35,53.
+27965 - (MapTile.cpp:51): Opening tile 36, 53 ("World\Maps\Zul'gurub\Zul'gurub_36_53.adt") from MPQ.
+27969 - (MapTile.cpp:51): Opening tile 34, 54 ("World\Maps\Zul'gurub\Zul'gurub_34_54.adt") from disk.
+28011 - (MapTile.cpp:303): [Debug] Done loading tile 36,53.
+28027 - (MapTile.cpp:51): Opening tile 36, 54 ("World\Maps\Zul'gurub\Zul'gurub_36_54.adt") from MPQ.
+28048 - (MapTile.cpp:303): [Debug] Done loading tile 34,54.
+28051 - (MapTile.cpp:51): Opening tile 34, 55 ("World\Maps\Zul'gurub\Zul'gurub_34_55.adt") from disk.
+28085 - (MapTile.cpp:303): [Debug] Done loading tile 36,54.
+28097 - (MapTile.cpp:51): Opening tile 35, 55 ("World\Maps\Zul'gurub\Zul'gurub_35_55.adt") from MPQ.
+28104 - (MapTile.cpp:303): [Debug] Done loading tile 34,55.
+28109 - (MapTile.cpp:51): Opening tile 36, 55 ("World\Maps\Zul'gurub\Zul'gurub_36_55.adt") from MPQ.
+28137 - (MapTile.cpp:303): [Debug] Done loading tile 36,55.
+28145 - (MapTile.cpp:303): [Debug] Done loading tile 35,55.
+48597 - (MapTile.cpp:51): Opening tile 33, 53 ("World\Maps\Zul'gurub\Zul'gurub_33_53.adt") from MPQ.
+48615 - (MapTile.cpp:51): Opening tile 33, 54 ("World\Maps\Zul'gurub\Zul'gurub_33_54.adt") from MPQ.
+48665 - (MapTile.cpp:303): [Debug] Done loading tile 33,53.
+48680 - (MapTile.cpp:51): Opening tile 33, 55 ("World\Maps\Zul'gurub\Zul'gurub_33_55.adt") from MPQ.
+48700 - (MapTile.cpp:303): [Debug] Done loading tile 33,54.
+48764 - (MapTile.cpp:303): [Debug] Done loading tile 33,55.
+56058 - (MapTile.cpp:51): Opening tile 33, 52 ("World\Maps\Zul'gurub\Zul'gurub_33_52.adt") from MPQ.
+56074 - (MapTile.cpp:51): Opening tile 34, 52 ("World\Maps\Zul'gurub\Zul'gurub_34_52.adt") from MPQ.
+56140 - (MapTile.cpp:303): [Debug] Done loading tile 33,52.
+56143 - (MapTile.cpp:303): [Debug] Done loading tile 34,52.
+56151 - (MapTile.cpp:51): Opening tile 35, 52 ("World\Maps\Zul'gurub\Zul'gurub_35_52.adt") from MPQ.
+56199 - (MapTile.cpp:303): [Debug] Done loading tile 35,52.
+281527 - (MapTile.cpp:475): Saving ADT "World\Maps\Zul'gurub\Zul'gurub_34_53.adt".
+281533 - (MapTile.cpp:606): [Debug] Added texture "tileset/duskwood/duskwooddirt.blp".
+281533 - (MapTile.cpp:606): [Debug] Added texture "tileset/duskwood/duskwoodgrassbase.blp".
+281533 - (MapTile.cpp:606): [Debug] Added texture "tileset/duskwood/duskwoodrock.blp".
+281533 - (MapTile.cpp:606): [Debug] Added texture "tileset/duskwood/duskwoodrockgravel.blp".
+281533 - (MapTile.cpp:606): [Debug] Added texture "tileset/plaguelandseast/eastplaguedcreep01.blp".
+281533 - (MapTile.cpp:606): [Debug] Added texture "tileset/plaguelandseast/eastplaguedcreep04.blp".
+281533 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorndirt03.blp".
+281533 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornmossroot01.blp".
+281533 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornrock05.blp".
+281533 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubdirt01.blp".
+281533 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubferns.blp".
+281533 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubroad01.blp".
+281533 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubrock01.blp".
+281533 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubvines.blp".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/burningsteppes/passivedoodads/orctoolrackburningsteppes/orctoolrackburningsteppes.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/spooklesstrees/duskwoodtreespookless02.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/trees/duskwoodtree06.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/trees/duskwoodtreecanopy01.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/detail/elwynnseaweed01/elwynnseaweed01.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar02.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar03.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/skeleton/battlegladeboneshumandark.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/skeleton/battlegladeskullhumandark.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/waterfall/elwynntallwaterfall01.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/activedoodads/cages/cage02.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/activedoodads/cages/cage03.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant06.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant07.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant08.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant10.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern05.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern06.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant01.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant02.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins02.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins03.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins05.m2".
+281533 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins06.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins07.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins08.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins15.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins18.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins19.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins21.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree01/stranglethorntree01.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree04/stranglethorntree04.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldrum/trolldungeondrum03.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldrum/trollruinsdrum01.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonpottery/trolldungeonpottery01.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonpottery/trolldungeonpottery02.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonpottery/trolldungeonpottery03.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonsacks/trolldungeonsacks.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trollruinsgong/trollruinsgong03.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trollshrine/trollshrine.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/barrel/westfallbarrel01.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/crate/westfallcrate.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree01.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree02.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree03.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree04.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree05.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/critter/birds/bird01.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/meat/bloodymeat01.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/meat/bloodymeat02.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/bones/wailingcavernshangingbones01.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/braziers/tallbrazier01.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/firepits/smallfirepit01.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/barrel/brokenbarrel02.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/crate01/crate01.m2".
+281534 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/crate02/crate02.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/furniture/containers/sack01.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/furniture/containers/sack02.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/candle01.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/candle02.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/candle03.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/freestandingtorch01.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/generaltorch01.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/torch.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/skeletons/chainedskeleton01.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/skeletons/chainedskeleton02.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/skeletons/chainedskeleton03.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/skeletons/chainedskeleton04.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/skeletons/lightskeletonlaying01.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/skeletons/lightskeletonlaying02.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/skeletons/lightskeletonlaying03.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/skeletons/lightskeletonsitting01.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/skultikis/skulltiki.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/snakegargoyle/snakegargoyle.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/thrones/cobrathrone01.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/trollskullpile/trollskullpile.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/trolltablets/trolltablet.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree01.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree02.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree03.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree04.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree05.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastreeroots02.m2".
+281535 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastreeroots04.m2".
+281535 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/stranglethorn_ruins/stranglethorn_ruins02.wmo".
+281535 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/stranglethorn_ruins/stranglethorn_ruins04.wmo".
+281535 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/stranglethorn_ruins/stranglethorn_ruins08.wmo".
+281535 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/zulgurub/zulgurubcity.wmo".
+281535 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/zulgurub_ziggurat/zulgurub_ziggurat.wmo".
+281536 - (MapTile.cpp:661): [Debug] Added object "world/wmo/dungeon/md_mountaincave/md_mushroomcave05.wmo".
+281536 - (MapTile.cpp:661): [Debug] Added object "world/wmo/kalimdor/buildings/trollhut/trollhut01.wmo".
+281536 - (MapTile.cpp:661): [Debug] Added object "world/wmo/kalimdor/buildings/trollhut/trollhutsmall01.wmo".
+281536 - (MapTile.cpp:721): [Debug] Added 989 doodads to MDDF
+281536 - (MapTile.cpp:766): [Debug] Added 12 wmos to MODF
+281608 - (MPQ.cpp:334): [Debug] Save file to: I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_34_53.adt
+281608 - (MPQ.cpp:348): [Error] Is "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_34_53.adt" really a location I can write to? Saving failed.
+281608 - (MPQ.cpp:354): Saving file "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_34_53.adt".
+281612 - (MapTile.cpp:475): Saving ADT "World\Maps\Zul'gurub\Zul'gurub_34_54.adt".
+281617 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorncobblestoneroad.blp".
+281617 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorndirt03.blp".
+281617 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorngrass.blp".
+281618 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornmossroot01.blp".
+281618 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornplantsalpha01.blp".
+281618 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornrock05.blp".
+281618 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubdirt01.blp".
+281618 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubferns.blp".
+281618 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubroad01.blp".
+281618 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubrock01.blp".
+281618 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubvines.blp".
+281618 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/burningsteppes/passivedoodads/bonfire/orcbonfire.m2".
+281618 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/battlegladeshield3/battlegladeshield3.m2".
+281618 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/detail/elwynnseaweed01/elwynnseaweed01.m2".
+281618 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/waterfall/elwynntallwaterfall01.m2".
+281618 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/karazahn/passivedoodads/karazahnwebs/karazahnweb01.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/karazahn/passivedoodads/karazahnwebs/karazahnweb02.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant06.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant07.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant08.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant10.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern05.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern06.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant01.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant02.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant05.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins05.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins06.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins07.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins08.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins09.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins15.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/bootybaytree01.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethornroot01.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethornroot02.m2".
+281619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree01/stranglethorntree01.m2".
+281620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree02/stranglethorntree02.m2".
+281620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree04/stranglethorntree04.m2".
+281620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldrum/trolldungeondrum03.m2".
+281620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonpottery/trolldungeonpottery01.m2".
+281620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonpottery/trolldungeonpottery02.m2".
+281620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonpottery/trolldungeonpottery03.m2".
+281620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trollruinsgong/trollruinsgong03.m2".
+281620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trollshrine/trollshrine.m2".
+281620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsbone01.m2".
+281620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsbonepile03.m2".
+281620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsspine01.m2".
+281620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/battotem/trollbattotem.m2".
+281620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree01.m2".
+281620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree02.m2".
+281620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree03.m2".
+281620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree04.m2".
+281620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree05.m2".
+281620 - (MapTile.cpp:624): [Debug] Added model "world/critter/birds/bird02.m2".
+281620 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/crate02/crate02.m2".
+281621 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/freestandingtorch01.m2".
+281621 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/tikimasks/troll_tikimask02.m2".
+281621 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/trollskullpile/trollskullpile.m2".
+281621 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree01.m2".
+281621 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree02.m2".
+281621 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree03.m2".
+281621 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree04.m2".
+281621 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree05.m2".
+281621 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastreeroots01.m2".
+281621 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastreeroots02.m2".
+281621 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastreeroots04.m2".
+281621 - (MapTile.cpp:624): [Debug] Added model "world/khazmodan/badlands/passivedoodads/trees/badlandspalmtree01.m2".
+281621 - (MapTile.cpp:624): [Debug] Added model "world/khazmodan/lochmodan/passivedoodads/bushes/lochmodanshrub02.m2".
+281621 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/stranglethorn_ruins/stranglethorn_ruins04.wmo".
+281621 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/stranglethorn_ruins/stranglethorn_ruins08.wmo".
+281621 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/stranglethorn_ruins/stranglethorn_ruins09.wmo".
+281621 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/zulgurub/zulgurubcity.wmo".
+281621 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/zulgurub/zulgurubentrance.wmo".
+281621 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/zulgurub_ziggurat/zulgurub_ziggurat.wmo".
+281621 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/collidable doodads/stranglethorn/stranglethornruins16/stranglethornruins16.wmo".
+281621 - (MapTile.cpp:661): [Debug] Added object "world/wmo/dungeon/md_ogremound/md_grogremound.wmo".
+281621 - (MapTile.cpp:661): [Debug] Added object "world/wmo/kalimdor/buildings/orctower/swamporctower.wmo".
+281621 - (MapTile.cpp:661): [Debug] Added object "world/wmo/kalimdor/buildings/trollhut/trollhut01.wmo".
+281621 - (MapTile.cpp:661): [Debug] Added object "world/wmo/kalimdor/buildings/trollhut/trollhutsmall01.wmo".
+281622 - (MapTile.cpp:721): [Debug] Added 510 doodads to MDDF
+281622 - (MapTile.cpp:766): [Debug] Added 19 wmos to MODF
+281693 - (MPQ.cpp:334): [Debug] Save file to: I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_34_54.adt
+281694 - (MPQ.cpp:348): [Error] Is "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_34_54.adt" really a location I can write to? Saving failed.
+281694 - (MPQ.cpp:354): Saving file "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_34_54.adt".
+308115 - (MapTile.cpp:51): Opening tile 36, 52 ("World\Maps\Zul'gurub\Zul'gurub_36_52.adt") from MPQ.
+308164 - (MapTile.cpp:303): [Debug] Done loading tile 36,52.
+589189 - (MapTile.cpp:51): Opening tile 34, 56 ("World\Maps\Zul'gurub\Zul'gurub_34_56.adt") from MPQ.
+589196 - (MapTile.cpp:51): Opening tile 35, 56 ("World\Maps\Zul'gurub\Zul'gurub_35_56.adt") from MPQ.
+589228 - (MapTile.cpp:303): [Debug] Done loading tile 34,56.
+589230 - (MapTile.cpp:303): [Debug] Done loading tile 35,56.
+589234 - (MapTile.cpp:51): Opening tile 36, 56 ("World\Maps\Zul'gurub\Zul'gurub_36_56.adt") from MPQ.
+589259 - (MapTile.cpp:303): [Debug] Done loading tile 36,56.
+726374 - (MapTile.cpp:475): Saving ADT "World\Maps\Zul'gurub\Zul'gurub_33_53.adt".
+726378 - (MapTile.cpp:606): [Debug] Added texture "tileset/duskwood/duskwooddirt.blp".
+726378 - (MapTile.cpp:606): [Debug] Added texture "tileset/duskwood/duskwoodgrassbase.blp".
+726378 - (MapTile.cpp:606): [Debug] Added texture "tileset/duskwood/duskwoodrock.blp".
+726378 - (MapTile.cpp:606): [Debug] Added texture "tileset/duskwood/duskwoodrockgravel.blp".
+726378 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorncobblestoneroad.blp".
+726378 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorndirt03.blp".
+726378 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorngrass.blp".
+726378 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornmossroot01.blp".
+726378 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornplantsalpha01.blp".
+726378 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornrock05.blp".
+726378 - (MapTile.cpp:606): [Debug] Added texture "tileset/westwood/westfallsandbase.blp".
+726378 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/ruins/duskwoodchimney01.m2".
+726378 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/ruins/duskwoodruins02.m2".
+726378 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/ruins/duskwoodruins04.m2".
+726378 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/ruins/duskwoodruinsbrick.m2".
+726378 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/spooklesstrees/duskwoodtreespookless01.m2".
+726378 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/spooklesstrees/duskwoodtreespookless02.m2".
+726378 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/trees/duskwoodtree06.m2".
+726378 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/trees/duskwoodtree07.m2".
+726378 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/trees/duskwoodtreecanopy01.m2".
+726378 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/trees/duskwoodtreestump01.m2".
+726378 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/trees/duskwoodtreestump02.m2".
+726378 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/battlegladesword/battlegladesword.m2".
+726378 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/detail/elwynnrock1/elwynnrock1.m2".
+726378 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/detail/elwynnrock2/elwynnrock2.m2".
+726378 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar01.m2".
+726378 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar02.m2".
+726378 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar03.m2".
+726378 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jugs/jug01.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jugs/jug02.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/pick/pick.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/shovel/shovel.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/activedoodads/cages/cage02.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/activedoodads/cages/cage03.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/activedoodads/holdingpen/holdingpen.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant06.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant08.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant10.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern05.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern06.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant01.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant02.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/bootybaytree01.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree01/stranglethorntree01.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree02/stranglethorntree02.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree04/stranglethorntree04.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/barrel/westfallbarrel01.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/butterchurner/butterchurner.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/harness/harness.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/utensils/bowl.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/utensils/stein.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/westfallchair/westfallchair.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/critter/birds/bird01.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/generic/buildings/humantentlarge/humantentlarge.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/buckets/cavekoboldbucket.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/cargoboxes/deadminecargoboxes.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/ropes/cavekoboldropecoil.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/barrel/barrel01.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/crate01/crate01.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/crate02/crate02.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/furniture/containers/sack01.m2".
+726379 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/furniture/containers/sack02.m2".
+726380 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/generaltorch01.m2".
+726380 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree02.m2".
+726380 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree04.m2".
+726380 - (MapTile.cpp:624): [Debug] Added model "world/khazmodan/badlands/passivedoodads/trees/badlandspalmtree01.m2".
+726380 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/duskwood_human_farm/duskwood_human_farm.wmo".
+726380 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/duskwood_humantwostory/duskwood_humantwostory.wmo".
+726380 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/duskwood_lumbermill/duskwood_lumbermill.wmo".
+726380 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/duskwood_stable/duskwood_stable.wmo".
+726380 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/guardtower_ruined/ruinedhumanguardtower01.wmo".
+726380 - (MapTile.cpp:661): [Debug] Added object "world/wmo/dungeon/md_caveden/md_mushroomden.wmo".
+726380 - (MapTile.cpp:661): [Debug] Added object "world/wmo/dungeon/md_mountaincave/md_mushroomcave05.wmo".
+726380 - (MapTile.cpp:721): [Debug] Added 371 doodads to MDDF
+726380 - (MapTile.cpp:766): [Debug] Added 8 wmos to MODF
+726453 - (MPQ.cpp:334): [Debug] Save file to: I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_33_53.adt
+726453 - (MPQ.cpp:348): [Error] Is "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_33_53.adt" really a location I can write to? Saving failed.
+726454 - (MPQ.cpp:354): Saving file "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_33_53.adt".
+726457 - (MapTile.cpp:475): Saving ADT "World\Maps\Zul'gurub\Zul'gurub_34_53.adt".
+726464 - (MapTile.cpp:606): [Debug] Added texture "tileset/duskwood/duskwooddirt.blp".
+726464 - (MapTile.cpp:606): [Debug] Added texture "tileset/duskwood/duskwoodgrassbase.blp".
+726464 - (MapTile.cpp:606): [Debug] Added texture "tileset/duskwood/duskwoodrock.blp".
+726464 - (MapTile.cpp:606): [Debug] Added texture "tileset/duskwood/duskwoodrockgravel.blp".
+726464 - (MapTile.cpp:606): [Debug] Added texture "tileset/plaguelandseast/eastplaguedcreep01.blp".
+726464 - (MapTile.cpp:606): [Debug] Added texture "tileset/plaguelandseast/eastplaguedcreep04.blp".
+726464 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorndirt03.blp".
+726464 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornmossroot01.blp".
+726464 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornrock05.blp".
+726464 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubdirt01.blp".
+726464 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubferns.blp".
+726464 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubroad01.blp".
+726464 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubrock01.blp".
+726464 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubvines.blp".
+726464 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/burningsteppes/passivedoodads/orctoolrackburningsteppes/orctoolrackburningsteppes.m2".
+726464 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/spooklesstrees/duskwoodtreespookless02.m2".
+726464 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/trees/duskwoodtree06.m2".
+726464 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/trees/duskwoodtreecanopy01.m2".
+726464 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/detail/elwynnseaweed01/elwynnseaweed01.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar02.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar03.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/skeleton/battlegladeboneshumandark.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/skeleton/battlegladeskullhumandark.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/waterfall/elwynntallwaterfall01.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/activedoodads/cages/cage02.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/activedoodads/cages/cage03.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant06.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant07.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant08.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant10.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern05.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern06.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant01.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant02.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins02.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins03.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins05.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins06.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins07.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins08.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins15.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins18.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins19.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins21.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree01/stranglethorntree01.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree04/stranglethorntree04.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldrum/trolldungeondrum03.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldrum/trollruinsdrum01.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonpottery/trolldungeonpottery01.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonpottery/trolldungeonpottery02.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonpottery/trolldungeonpottery03.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonsacks/trolldungeonsacks.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trollruinsgong/trollruinsgong03.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trollshrine/trollshrine.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/barrel/westfallbarrel01.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/crate/westfallcrate.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree01.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree02.m2".
+726465 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree03.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree04.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree05.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/critter/birds/bird01.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/meat/bloodymeat01.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/meat/bloodymeat02.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/bones/wailingcavernshangingbones01.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/braziers/tallbrazier01.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/firepits/smallfirepit01.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/barrel/brokenbarrel02.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/crate01/crate01.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/crate02/crate02.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/furniture/containers/sack01.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/furniture/containers/sack02.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/candle01.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/candle02.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/candle03.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/freestandingtorch01.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/generaltorch01.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/torch.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/skeletons/chainedskeleton01.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/skeletons/chainedskeleton02.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/skeletons/chainedskeleton03.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/skeletons/chainedskeleton04.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/skeletons/lightskeletonlaying01.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/skeletons/lightskeletonlaying02.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/skeletons/lightskeletonlaying03.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/skeletons/lightskeletonsitting01.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/skultikis/skulltiki.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/snakegargoyle/snakegargoyle.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/thrones/cobrathrone01.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/trollskullpile/trollskullpile.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/trolltablets/trolltablet.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree01.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree02.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree03.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree04.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree05.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastreeroots02.m2".
+726466 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastreeroots04.m2".
+726467 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/stranglethorn_ruins/stranglethorn_ruins02.wmo".
+726467 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/stranglethorn_ruins/stranglethorn_ruins04.wmo".
+726467 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/stranglethorn_ruins/stranglethorn_ruins08.wmo".
+726467 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/zulgurub/zulgurubcity.wmo".
+726467 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/zulgurub_ziggurat/zulgurub_ziggurat.wmo".
+726467 - (MapTile.cpp:661): [Debug] Added object "world/wmo/dungeon/md_mountaincave/md_mushroomcave05.wmo".
+726467 - (MapTile.cpp:661): [Debug] Added object "world/wmo/kalimdor/buildings/trollhut/trollhut01.wmo".
+726467 - (MapTile.cpp:661): [Debug] Added object "world/wmo/kalimdor/buildings/trollhut/trollhutsmall01.wmo".
+726467 - (MapTile.cpp:721): [Debug] Added 989 doodads to MDDF
+726467 - (MapTile.cpp:766): [Debug] Added 12 wmos to MODF
+726536 - (MPQ.cpp:334): [Debug] Save file to: I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_34_53.adt
+726536 - (MPQ.cpp:348): [Error] Is "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_34_53.adt" really a location I can write to? Saving failed.
+726537 - (MPQ.cpp:354): Saving file "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_34_53.adt".
+726541 - (MapTile.cpp:475): Saving ADT "World\Maps\Zul'gurub\Zul'gurub_35_53.adt".
+726547 - (MapTile.cpp:606): [Debug] Added texture "tileset/burningstepps/burningsteppsrock03.blp".
+726547 - (MapTile.cpp:606): [Debug] Added texture "tileset/deadwind pass/deadwindpassdirt.blp".
+726547 - (MapTile.cpp:606): [Debug] Added texture "tileset/deadwind pass/deadwindpassrockbase.blp".
+726547 - (MapTile.cpp:606): [Debug] Added texture "tileset/deadwind pass/deadwindpassweeds.blp".
+726547 - (MapTile.cpp:606): [Debug] Added texture "tileset/duskwood/duskwoodrock.blp".
+726547 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorngrass.blp".
+726547 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornmossroot01.blp".
+726548 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubdirt01.blp".
+726548 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubferns.blp".
+726548 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubroad01.blp".
+726548 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubrock01.blp".
+726548 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubvines.blp".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/burningsteppes/passivedoodads/orctoolrackburningsteppes/orctoolrackburningsteppes.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/deadwindpass/passivedoodads/rocks/deadwindpasscliffrock01dnr.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/deadwindpass/passivedoodads/rocks/deadwindpasscliffrock02dnr.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/deadwindpass/passivedoodads/rocks/deadwindpasscliffrock03dnr.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/deadwindpass/passivedoodads/rocks/deadwindpasscliffrock04dnr.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/deadwindpass/passivedoodads/rocks/deadwindpasscliffrock05dnr.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/deadwindpass/passivedoodads/rocks/deadwindpassgroundrock01dnr.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/deadwindpass/passivedoodads/rocks/deadwindpassgroundrock02dnr.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/deadwindpass/passivedoodads/rocks/deadwindpassgroundrock03dnr.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/deadwindpass/passivedoodads/trees/deadwindpassmidtree01.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/deadwindpass/passivedoodads/trees/deadwindpassmidtree02.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/battlegladeshield1/battlegladeshield1.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/battlegladesword/battlegladesword.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/detail/elwynnseaweed01/elwynnseaweed01.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar01.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar02.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar03.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/skeleton/battlegladeboneshumandark.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/activedoodads/cages/cage01.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant06.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant07.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant08.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant10.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern05.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern06.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant01.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant02.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant05.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins05.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins06.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins07.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins08.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins09.m2".
+726548 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins15.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonpottery/trolldungeonpottery03.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonsacks/trolldungeonsacks.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trollshrine/trollshrine.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsblastedmule.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/barrel/westfallbarrel01.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/brokencart/brokencart.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/crate/westfallcrate.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/ruins/zulgurubruins04.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree01.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree02.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree03.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree04.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree05.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/critter/birds/bird02.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/generic/dwarf/passive doodads/excavationtents/excavationtentruined02.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/bottles/greenbottle02.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/braziers/tallbrazier01.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/barrel/brokenbarrel02.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/furniture/containers/sack01.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/furniture/containers/sack02.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/freestandingtorch01.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/snakegargoyle/snakegargoyle.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/trolltablets/trolltablet.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree02.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree03.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree04.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree05.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastreeroots01.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastreeroots02.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/lordaeron/silverpine/passivedoodads/treestumps/silverpinetreestump01.m2".
+726549 - (MapTile.cpp:624): [Debug] Added model "world/lordaeron/silverpine/passivedoodads/treestumps/silverpinetreestump02.m2".
+726549 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/stranglethorn_ruins/stranglethorn_ruins02.wmo".
+726549 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/stranglethorn_ruins/stranglethorn_ruins09.wmo".
+726549 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/zulgurub/zulgurubcity.wmo".
+726549 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/zulgurub_ziggurat/zulgurub_ziggurat.wmo".
+726549 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/collidable doodads/stranglethorn/strangleruinstair/strangleruinstair.wmo".
+726549 - (MapTile.cpp:661): [Debug] Added object "world/wmo/kalimdor/buildings/trollhut/trollhut01.wmo".
+726550 - (MapTile.cpp:721): [Debug] Added 477 doodads to MDDF
+726550 - (MapTile.cpp:766): [Debug] Added 8 wmos to MODF
+726613 - (MPQ.cpp:334): [Debug] Save file to: I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_35_53.adt
+726613 - (MPQ.cpp:348): [Error] Is "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_35_53.adt" really a location I can write to? Saving failed.
+726613 - (MPQ.cpp:354): Saving file "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_35_53.adt".
+726617 - (MapTile.cpp:475): Saving ADT "World\Maps\Zul'gurub\Zul'gurub_36_53.adt".
+726619 - (MapTile.cpp:606): [Debug] Added texture "tileset/deadwind pass/deadwindpassdirt.blp".
+726619 - (MapTile.cpp:606): [Debug] Added texture "tileset/deadwind pass/deadwindpassrockbase.blp".
+726619 - (MapTile.cpp:606): [Debug] Added texture "tileset/deadwind pass/deadwindpassshale.blp".
+726619 - (MapTile.cpp:606): [Debug] Added texture "tileset/the blasted lands/blastedlandschardrock.blp".
+726619 - (MapTile.cpp:606): [Debug] Added texture "tileset/the blasted lands/blastedlandsdirt01.blp".
+726619 - (MapTile.cpp:606): [Debug] Added texture "tileset/the blasted lands/blastedlandsrock.blp".
+726619 - (MapTile.cpp:606): [Debug] Added texture "tileset/the blasted lands/blastedlandsrockhighlight01.blp".
+726619 - (MapTile.cpp:606): [Debug] Added texture "tileset/the blasted lands/blastedlandsrockhighlight01new.blp".
+726619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/deadwindpass/passivedoodads/rocks/deadwindpasscliffrock01dnr.m2".
+726619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/deadwindpass/passivedoodads/rocks/deadwindpasscliffrock02dnr.m2".
+726619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/deadwindpass/passivedoodads/rocks/deadwindpasscliffrock03dnr.m2".
+726619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/deadwindpass/passivedoodads/rocks/deadwindpasscliffrock04dnr.m2".
+726619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/deadwindpass/passivedoodads/rocks/deadwindpassgroundrock01dnr.m2".
+726619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/deadwindpass/passivedoodads/rocks/deadwindpassgroundrock02dnr.m2".
+726619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/deadwindpass/passivedoodads/rocks/deadwindpassgroundrock03dnr.m2".
+726619 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/deadwindpass/passivedoodads/trees/deadwindpassmidtree01.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/deadwindpass/passivedoodads/trees/deadwindpassmidtree02.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/battlegladebanner1/battlegladebanner1.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/battlegladeshield1/battlegladeshield1.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/battlegladeshield2/battlegladeshield2.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/battlegladeshield3/battlegladeshield3.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/battlegladesword/battlegladesword.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar01.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar02.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar03.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jugs/jug01.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/ruinedcatapult/ruinedcatapult.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/activedoodads/cages/cage02.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/activedoodads/cages/cage03.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsblastedmule.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsbone01.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsbonepile02.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsbonepile03.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsskull01.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsskull02.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsspine01.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/detail/blastedlandsrock01.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/ruins/blastedlandsruinstusk.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/barrel/westfallbarrel01.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/brokencart/brokencart.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/crate/westfallcrate.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/critter/birds/bird02.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/ballistaruins/ballistamissle01.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/ballistaruins/ballistawheel01.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/bottles/greenbottle01.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/bottles/greenbottle02.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/catapultruins/catapultbeam.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/catapultruins/catapulttrunk02.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/catapultruins/catapultwheel01.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/cauldrons/cauldronempty.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/ropes/cavekoboldropecoil.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/barrel/brokenbarrel01.m2".
+726620 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/barrel/brokenbarrel02.m2".
+726620 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/altarofstorms/altarofstorms.wmo".
+726620 - (MapTile.cpp:661): [Debug] Added object "world/wmo/dungeon/md_ogremound/md_ogremound.wmo".
+726621 - (MapTile.cpp:721): [Debug] Added 202 doodads to MDDF
+726621 - (MapTile.cpp:766): [Debug] Added 2 wmos to MODF
+726661 - (MPQ.cpp:334): [Debug] Save file to: I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_36_53.adt
+726661 - (MPQ.cpp:348): [Error] Is "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_36_53.adt" really a location I can write to? Saving failed.
+726661 - (MPQ.cpp:354): Saving file "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_36_53.adt".
+726663 - (MapTile.cpp:475): Saving ADT "World\Maps\Zul'gurub\Zul'gurub_33_54.adt".
+726668 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorncobblestoneroad.blp".
+726668 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorndirt03.blp".
+726668 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorngrass.blp".
+726668 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornmossroot01.blp".
+726668 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornplantsalpha01.blp".
+726668 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornrock05.blp".
+726668 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/trees/duskwoodtreestump01.m2".
+726668 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/trees/duskwoodtreestump02.m2".
+726668 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/detail/elwynnrock1/elwynnrock1.m2".
+726668 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/detail/elwynnrock2/elwynnrock2.m2".
+726668 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar01.m2".
+726668 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar02.m2".
+726668 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar03.m2".
+726668 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jugs/jug01.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jugs/jug02.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/pick/pick.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/shovel/shovel.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/waterbasin/waterbasin.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/crystalcreatures/crystallizedhuman01.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/crystalcreatures/crystallizedhuman02.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/crystalcreatures/crystallizedhuman03.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/crystalcreatures/crystallizedtroll01.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant06.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant08.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant10.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern05.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern06.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant01.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant02.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant05.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins05.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins06.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins09.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/strangledeadtrees/strangledeadtree01.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/bootybaytree01.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethornroot01.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethornroot02.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethornroot03.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree01/stranglethorntree01.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree02/stranglethorntree02.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree04/stranglethorntree04.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/barrel/westfallbarrel01.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/utensils/bowl.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/westfallchair/westfallchair.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/critter/birds/bird01.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/critter/birds/bird02.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/generic/dwarf/passive doodads/tavernstuff/grainsacs02.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/buckets/cavekoboldbucket.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/crates/crategrain01.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/crates/stormwindcrate01.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/lanterns/generallantern01.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/shack/shack.m2".
+726669 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/signposts/woodsignpointerworn01.m2".
+726670 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/signposts/woodsignpostworn01.m2".
+726670 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/braziers/tallbrazier01.m2".
+726670 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/barrel/barrel01.m2".
+726670 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/crate02/crate02.m2".
+726670 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/furniture/containers/crate03.m2".
+726670 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/generaltorch01.m2".
+726670 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/misc/wheelbarrow/caveminewheelbarrow01.m2".
+726670 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/ashenvale/passivedoodads/ashenvaletreelogs/ashenvaletreelog02.m2".
+726670 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree02.m2".
+726670 - (MapTile.cpp:624): [Debug] Added model "world/khazmodan/badlands/passivedoodads/trees/badlandspalmtree01.m2".
+726670 - (MapTile.cpp:624): [Debug] Added model "world/khazmodan/badlands/passivedoodads/trees/badlandspalmtree02.m2".
+726670 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/duskwood_human_farm/duskwood_human_farm.wmo".
+726670 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/zulgurub/zulgurubentrance.wmo".
+726670 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/collidable doodads/stranglethorn/stranglethornruins12/stranglethornruins12.wmo".
+726670 - (MapTile.cpp:661): [Debug] Added object "world/wmo/dungeon/md_ogremound/md_grogremound.wmo".
+726670 - (MapTile.cpp:661): [Debug] Added object "world/wmo/kalimdor/buildings/orctower/swamporctower.wmo".
+726670 - (MapTile.cpp:721): [Debug] Added 586 doodads to MDDF
+726670 - (MapTile.cpp:766): [Debug] Added 8 wmos to MODF
+726748 - (MPQ.cpp:334): [Debug] Save file to: I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_33_54.adt
+726748 - (MPQ.cpp:348): [Error] Is "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_33_54.adt" really a location I can write to? Saving failed.
+726748 - (MPQ.cpp:354): Saving file "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_33_54.adt".
+726752 - (MapTile.cpp:475): Saving ADT "World\Maps\Zul'gurub\Zul'gurub_34_54.adt".
+726756 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorncobblestoneroad.blp".
+726756 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorndirt03.blp".
+726756 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorngrass.blp".
+726756 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornmossroot01.blp".
+726756 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornplantsalpha01.blp".
+726756 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornrock05.blp".
+726756 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubdirt01.blp".
+726756 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubferns.blp".
+726756 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubroad01.blp".
+726756 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubrock01.blp".
+726756 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubvines.blp".
+726756 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/burningsteppes/passivedoodads/bonfire/orcbonfire.m2".
+726756 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/battlegladeshield3/battlegladeshield3.m2".
+726756 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/detail/elwynnseaweed01/elwynnseaweed01.m2".
+726756 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/waterfall/elwynntallwaterfall01.m2".
+726756 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/karazahn/passivedoodads/karazahnwebs/karazahnweb01.m2".
+726756 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/karazahn/passivedoodads/karazahnwebs/karazahnweb02.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant06.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant07.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant08.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant10.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern05.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern06.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant01.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant02.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant05.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins05.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins06.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins07.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins08.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins09.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins15.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/bootybaytree01.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethornroot01.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethornroot02.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree01/stranglethorntree01.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree02/stranglethorntree02.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree04/stranglethorntree04.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldrum/trolldungeondrum03.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonpottery/trolldungeonpottery01.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonpottery/trolldungeonpottery02.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonpottery/trolldungeonpottery03.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trollruinsgong/trollruinsgong03.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trollshrine/trollshrine.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsbone01.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsbonepile03.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsspine01.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/battotem/trollbattotem.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree01.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree02.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree03.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree04.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree05.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/critter/birds/bird02.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/crate02/crate02.m2".
+726757 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/freestandingtorch01.m2".
+726758 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/tikimasks/troll_tikimask02.m2".
+726758 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/trollskullpile/trollskullpile.m2".
+726758 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree01.m2".
+726758 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree02.m2".
+726758 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree03.m2".
+726758 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree04.m2".
+726758 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree05.m2".
+726758 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastreeroots01.m2".
+726758 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastreeroots02.m2".
+726758 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastreeroots04.m2".
+726758 - (MapTile.cpp:624): [Debug] Added model "world/khazmodan/badlands/passivedoodads/trees/badlandspalmtree01.m2".
+726758 - (MapTile.cpp:624): [Debug] Added model "world/khazmodan/lochmodan/passivedoodads/bushes/lochmodanshrub02.m2".
+726758 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/stranglethorn_ruins/stranglethorn_ruins04.wmo".
+726758 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/stranglethorn_ruins/stranglethorn_ruins08.wmo".
+726758 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/stranglethorn_ruins/stranglethorn_ruins09.wmo".
+726758 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/zulgurub/zulgurubcity.wmo".
+726758 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/zulgurub/zulgurubentrance.wmo".
+726758 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/zulgurub_ziggurat/zulgurub_ziggurat.wmo".
+726758 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/collidable doodads/stranglethorn/stranglethornruins16/stranglethornruins16.wmo".
+726758 - (MapTile.cpp:661): [Debug] Added object "world/wmo/dungeon/md_ogremound/md_grogremound.wmo".
+726758 - (MapTile.cpp:661): [Debug] Added object "world/wmo/kalimdor/buildings/orctower/swamporctower.wmo".
+726758 - (MapTile.cpp:661): [Debug] Added object "world/wmo/kalimdor/buildings/trollhut/trollhut01.wmo".
+726758 - (MapTile.cpp:661): [Debug] Added object "world/wmo/kalimdor/buildings/trollhut/trollhutsmall01.wmo".
+726758 - (MapTile.cpp:721): [Debug] Added 510 doodads to MDDF
+726758 - (MapTile.cpp:766): [Debug] Added 19 wmos to MODF
+726819 - (MPQ.cpp:334): [Debug] Save file to: I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_34_54.adt
+726819 - (MPQ.cpp:348): [Error] Is "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_34_54.adt" really a location I can write to? Saving failed.
+726819 - (MPQ.cpp:354): Saving file "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_34_54.adt".
+726823 - (MapTile.cpp:475): Saving ADT "World\Maps\Zul'gurub\Zul'gurub_35_54.adt".
+726829 - (MapTile.cpp:606): [Debug] Added texture "tileset/deadwind pass/deadwindpassdirt.blp".
+726829 - (MapTile.cpp:606): [Debug] Added texture "tileset/deadwind pass/deadwindpassrockbase.blp".
+726829 - (MapTile.cpp:606): [Debug] Added texture "tileset/felwood/felwoodfernsorange2alpha.blp".
+726829 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubdirt01.blp".
+726829 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubferns.blp".
+726829 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubroad01.blp".
+726829 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubrock01.blp".
+726829 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubvines.blp".
+726829 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/burningsteppes/passivedoodads/orctoolrackburningsteppes/orctoolrackburningsteppes.m2".
+726829 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/bush/duskwoodbush01.m2".
+726829 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/bush/duskwoodbush02.m2".
+726829 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/bush/duskwoodbush03.m2".
+726829 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/bush/duskwoodbush04.m2".
+726829 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/bush/duskwoodbush05.m2".
+726829 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/webs/webdangle02.m2".
+726829 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/webs/webstretch01.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/battlegladepolearmskull/battlegladepolearmskull.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/battlegladeshield2/battlegladeshield2.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/battlegladeshield3/battlegladeshield3.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/detail/elwynnseaweed01/elwynnseaweed01.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/skeleton/battlegladeskullhumandark.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/waterfall/elwynntallwaterfall01.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/karazahn/passivedoodads/karazahnwebs/karazahnweb01.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/karazahn/passivedoodads/karazahnwebs/karazahnweb02.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/karazahn/passivedoodads/karazahnwebs/karazahnweb03.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/activedoodads/cages/cage01.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/bridge/jaguarstatue.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant06.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant07.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant08.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant10.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern05.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern06.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant01.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant02.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins03.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins05.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins06.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins07.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins08.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins09.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins15.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins18.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins21.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/serpentstatue02/serpentstatue02.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldrum/trollruinsdrum01.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonpottery/trolldungeonpottery01.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonpottery/trolldungeonpottery03.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonsacks/trolldungeonsacks.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trollruinsgong/trollruinsgong03.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trollshrine/trollshrine.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsbonepile02.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsskull01.m2".
+726830 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsspine01.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/ruins/zulgurubruins05.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/ruins/zulgurubruins06.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/spiderarea/nastyspiderweb01.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/spiderarea/nastyspiderweb02.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/spiderarea/nastyspiderweb03.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/spiderarea/spiderpod02.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree01.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree02.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree03.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree04.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree05.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/dungeon/goldmine/passivedoodads/cavespiderwebs/cavespiderweb01.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/dwarf/passive doodads/targets/targetogre01.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/ogre/passive doodads/torches/ogrewalltorchblue.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/braziers/mediumbrazierpurple01.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/braziers/smallbrazierpurple01.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/braziers/tallbrazier01.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/shields/orcshield01.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/shields/orcshield02.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/shields/orcshield03.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/weapons/orcaxe01.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/weapons/orcaxe02.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/weapons/orcaxe03.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/weapons/orcspear01.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/weapons/orcspear02.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/weapons/orcspear03.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/weapons/orcsword02.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/weapons/orcsword03.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/freestandingtorch01.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/freestandingtorch04_hugeblue.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/particleemitters/purplegroundfog.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/weapons/bone_shield.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/weapons/leather_shield.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/weapons/wicker_shield.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/tauren/passive doodads/archerytargets/archerytargetdwarf01.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/tauren/passive doodads/archerytargets/archerytargethuman01.m2".
+726831 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/mummytrolls/mummytroll01.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/skultikis/skulltiki.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/snakegargoyle/snakegargoyle.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/thrones/cobrathrone01.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/trollskullpile/trollskullpile.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/goober/g_cage02.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/barrens/passivedoodads/bushes/barrensbush01.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/barrens/passivedoodads/bushes/barrensbush02.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/desolace/passivedoodads/spearwalls/centaurspears01.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/desolace/passivedoodads/spearwalls/centaurspears02.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/desolace/passivedoodads/spearwalls/centaurspearscone.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree02.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree03.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree04.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree05.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastreeroots01.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastreeroots02.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/kalidar/passivedoodads/kalidartreelogs/kalidartreelog01.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/mulgore/passivedoodads/thorns/mullgorethorn01.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/mulgore/passivedoodads/thorns/mullgorethorn02.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/mulgore/passivedoodads/thorns/mullgorethorn03.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/mulgore/passivedoodads/thorns/mullgorethorn04.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/mulgore/passivedoodads/thorns/mullgorethorn05.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/mulgore/passivedoodads/thorns/mullgorethorn06.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/mulgore/passivedoodads/thorns/mullgorethorn07.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/khazmodan/wetlands/passivedoodads/dragonbones/dragonbonesskull.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/lordaeron/silverpine/passivedoodads/treestumps/silverpinetreestump01.m2".
+726832 - (MapTile.cpp:624): [Debug] Added model "world/lordaeron/silverpine/passivedoodads/treestumps/silverpinetreestump02.m2".
+726832 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/stranglethorn_ruins/stranglethorn_ruins04.wmo".
+726832 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/stranglethorn_ruins/stranglethorn_ruins08.wmo".
+726832 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/stranglethorn_ruins/stranglethorn_ruins09.wmo".
+726832 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/stranglethorn_ruins/stranglethorn_ruins17.wmo".
+726832 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/zulgurub/zulgurubcity.wmo".
+726832 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/zulgurub_ziggurat/zulgurub_ziggurat.wmo".
+726832 - (MapTile.cpp:661): [Debug] Added object "world/wmo/kalimdor/buildings/trollhut/trollhut01.wmo".
+726833 - (MapTile.cpp:721): [Debug] Added 877 doodads to MDDF
+726833 - (MapTile.cpp:766): [Debug] Added 11 wmos to MODF
+726912 - (MPQ.cpp:334): [Debug] Save file to: I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_35_54.adt
+726912 - (MPQ.cpp:348): [Error] Is "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_35_54.adt" really a location I can write to? Saving failed.
+726912 - (MPQ.cpp:354): Saving file "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_35_54.adt".
+726916 - (MapTile.cpp:475): Saving ADT "World\Maps\Zul'gurub\Zul'gurub_36_54.adt".
+726917 - (MapTile.cpp:606): [Debug] Added texture "tileset/deadwind pass/deadwindpassdirt.blp".
+726917 - (MapTile.cpp:606): [Debug] Added texture "tileset/deadwind pass/deadwindpassrockbase.blp".
+726917 - (MapTile.cpp:606): [Debug] Added texture "tileset/deadwind pass/deadwindpassshale.blp".
+726917 - (MapTile.cpp:606): [Debug] Added texture "tileset/deadwind pass/deadwindpassweb.blp".
+726917 - (MapTile.cpp:606): [Debug] Added texture "tileset/the blasted lands/blastedlandsdirt01.blp".
+726917 - (MapTile.cpp:606): [Debug] Added texture "tileset/the blasted lands/blastedlandsrock.blp".
+726917 - (MapTile.cpp:606): [Debug] Added texture "tileset/the blasted lands/blastedlandsrockhighlight01.blp".
+726917 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubrock01.blp".
+726917 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree02.m2".
+726917 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/altarofstorms/altarofstorms.wmo".
+726917 - (MapTile.cpp:661): [Debug] Added object "world/wmo/khazmodan/buildings/greatwall/greatwall_wall_01.wmo".
+726917 - (MapTile.cpp:721): [Debug] Added 3 doodads to MDDF
+726917 - (MapTile.cpp:766): [Debug] Added 2 wmos to MODF
+726969 - (MPQ.cpp:334): [Debug] Save file to: I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_36_54.adt
+726969 - (MPQ.cpp:348): [Error] Is "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_36_54.adt" really a location I can write to? Saving failed.
+726970 - (MPQ.cpp:354): Saving file "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_36_54.adt".
+726972 - (MapTile.cpp:475): Saving ADT "World\Maps\Zul'gurub\Zul'gurub_33_55.adt".
+726977 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorncobblestoneroad.blp".
+726977 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorndirt03.blp".
+726977 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorngrass.blp".
+726977 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornmossroot01.blp".
+726977 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornplantsalpha01.blp".
+726977 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornrock05.blp".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/buildings/gnolltent/gnolltent02.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/battlegladesword/battlegladesword.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/detail/elwynnrock1/elwynnrock1.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar01.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar02.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar03.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jugs/jug01.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jugs/jug02.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/pick/pick.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/shovel/shovel.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/skeleton/battlegladeboneshumandark.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/skeleton/battlegladebskeletonhumandark.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/skeleton/battlegladeskullhumandark.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/activedoodads/cages/cage01.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant06.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant08.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant10.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern05.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern06.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant01.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant02.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant05.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins01.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins02.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins06.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins07.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins08.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins09.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins10.m2".
+726977 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins14.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/strangledeadtrees/strangledeadtree01.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/bootybaytree01.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethornroot01.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethornroot02.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree01/stranglethorntree01.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree02/stranglethorntree02.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree04/stranglethorntree04.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsskull02.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsspine01.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/barrel/westfallbarrel01.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/crate/westfallcrate.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/utensils/bowl.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/westfallchair/westfallchair.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/westfallskeleton/westfallskeleton.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/buckets/gnomebucket01.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/buckets/gnomebucket02.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/buckets/gnomebucket05.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/furniture/gnomechair01.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/furniture/gnomechair02.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/furniture/gnomechair03.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/furniture/gnometable02.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/furniture/gnometable04.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/gears&levers/gnomebiggear.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/gears&levers/gnomemcwheel.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/gears&levers/gnomesmallgear.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/gnomemachine/gnomemachinebroken03.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/parts/gnomescrew01.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/parts/gnomesteelplate01.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/parts/gnomesteelplate02.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/parts/gnomesteelplate04.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/parts/gnomesteelplate05.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/tools/gnometool01.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/tools/gnometool03.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/tools/gnometool04.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/tools/gnometool05.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/gnome/passive doodads/tools/gnometool06.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/bottles/greenbottle02.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/buckets/cavekoboldbucket.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/cauldrons/cauldronempty.m2".
+726978 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/crates/replacecrate01.m2".
+726979 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/crates/replacecrate03.m2".
+726979 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/crates/stormwindcrate01.m2".
+726979 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/lanterns/generallantern01.m2".
+726979 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/lumberpiles/deadminelumberpilelarge.m2".
+726979 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/lumberpiles/deadminelumberpilesmall.m2".
+726979 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/bowls/bowlwood01.m2".
+726979 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/roasts/roasttallstrider01.m2".
+726979 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/weapons/orcspear03.m2".
+726979 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/barrel/brokenbarrel01.m2".
+726979 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/furniture/containers/sack02.m2".
+726979 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/generaltorch01.m2".
+726979 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/torch.m2".
+726979 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/ashenvale/passivedoodads/ashenvaletreelogs/ashenvaletreelog02.m2".
+726979 - (MapTile.cpp:624): [Debug] Added model "world/khazmodan/badlands/passivedoodads/trees/badlandspalmtree01.m2".
+726979 - (MapTile.cpp:624): [Debug] Added model "world/khazmodan/badlands/passivedoodads/trees/badlandspalmtree02.m2".
+726979 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/gnomehut/gnomehut.wmo".
+726979 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/collidable doodads/stranglethorn/stranglethornruins11/stranglethornruins11.wmo".
+726979 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/collidable doodads/stranglethorn/stranglethornruins12/stranglethornruins12.wmo".
+726979 - (MapTile.cpp:661): [Debug] Added object "world/wmo/dungeon/md_ogremound/md_grogremound.wmo".
+726979 - (MapTile.cpp:721): [Debug] Added 696 doodads to MDDF
+726979 - (MapTile.cpp:766): [Debug] Added 13 wmos to MODF
+727057 - (MPQ.cpp:334): [Debug] Save file to: I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_33_55.adt
+727058 - (MPQ.cpp:348): [Error] Is "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_33_55.adt" really a location I can write to? Saving failed.
+727058 - (MPQ.cpp:354): Saving file "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_33_55.adt".
+727062 - (MapTile.cpp:475): Saving ADT "World\Maps\Zul'gurub\Zul'gurub_34_55.adt".
+727064 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorndirt03.blp".
+727064 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorngrass.blp".
+727064 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornmossroot01.blp".
+727064 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornplantsalpha01.blp".
+727064 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornrock05.blp".
+727064 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubdirt01.blp".
+727065 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubferns.blp".
+727065 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubroad01.blp".
+727065 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubrock01.blp".
+727065 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubvines.blp".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/duskwood/passivedoodads/webs/webdangle02.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/cliffrocks/elwynncliffrock01.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/cliffrocks/elwynncliffrock02.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/karazahn/passivedoodads/karazahnwebs/karazahnweb01.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/karazahn/passivedoodads/karazahnwebs/karazahnweb02.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/karazahn/passivedoodads/karazahnwebs/karazahnweb03.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant06.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant07.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant08.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant10.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern05.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant02.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins02.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins05.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins06.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins08.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins15.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/bootybaytree01.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree01/stranglethorntree01.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree02/stranglethorntree02.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trees/stranglethorntree04/stranglethorntree04.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/spiderarea/nastyspiderweb01.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/spiderarea/nastyspiderweb02.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/spiderarea/nastyspiderweb03.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/spiderarea/spiderpod01.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/spiderarea/spiderpod02.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree01.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree03.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree04.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree05.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/generaltorch01.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree01.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree02.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree03.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree04.m2".
+727065 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree05.m2".
+727066 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastreeroots01.m2".
+727066 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastreeroots02.m2".
+727066 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/kalidar/passivedoodads/kalidarbushes/kalidarbush01.m2".
+727066 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/kalidar/passivedoodads/kalidarbushes/kalidarbush02.m2".
+727066 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/kalidar/passivedoodads/kalidartrees/kalidartree05.m2".
+727066 - (MapTile.cpp:624): [Debug] Added model "world/khazmodan/badlands/passivedoodads/trees/badlandspalmtree01.m2".
+727066 - (MapTile.cpp:624): [Debug] Added model "world/khazmodan/badlands/passivedoodads/trees/badlandspalmtree02.m2".
+727066 - (MapTile.cpp:624): [Debug] Added model "world/khazmodan/lochmodan/passivedoodads/bushes/lochmodanshrub03.m2".
+727066 - (MapTile.cpp:624): [Debug] Added model "world/lordaeron/aeriepeaks/passivedoodads/bushes/aeriepeaksbush01.m2".
+727066 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/zulgurub/zulgurubcity.wmo".
+727066 - (MapTile.cpp:661): [Debug] Added object "world/wmo/dungeon/md_caveden/md_volcanicden.wmo".
+727066 - (MapTile.cpp:661): [Debug] Added object "world/wmo/dungeon/md_ogremound/md_grogremound.wmo".
+727066 - (MapTile.cpp:721): [Debug] Added 209 doodads to MDDF
+727066 - (MapTile.cpp:766): [Debug] Added 3 wmos to MODF
+727117 - (MPQ.cpp:334): [Debug] Save file to: I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_34_55.adt
+727117 - (MPQ.cpp:348): [Error] Is "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_34_55.adt" really a location I can write to? Saving failed.
+727117 - (MPQ.cpp:354): Saving file "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_34_55.adt".
+727120 - (MapTile.cpp:475): Saving ADT "World\Maps\Zul'gurub\Zul'gurub_35_55.adt".
+727123 - (MapTile.cpp:606): [Debug] Added texture "tileset/deadwind pass/deadwindpassdirt.blp".
+727123 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorndirt03.blp".
+727123 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornmossroot01.blp".
+727124 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornrock05.blp".
+727124 - (MapTile.cpp:606): [Debug] Added texture "tileset/wetlands/wetlandsdirtmoss01.blp".
+727124 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubdirt01.blp".
+727124 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubferns.blp".
+727124 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubroad01.blp".
+727124 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubrock01.blp".
+727124 - (MapTile.cpp:606): [Debug] Added texture "tileset/zulgurub/zulgurubvines.blp".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/burningsteppes/passivedoodads/orctoolrackburningsteppes/orctoolrackburningsteppes.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/battlegladepolearmskull/battlegladepolearmskull.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/battlegladeshield2/battlegladeshield2.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/battlegladeshield3/battlegladeshield3.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar01.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar02.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jars/jar03.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jugs/jug01.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/jugs/jug02.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/pick/pick.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/shovel/shovel.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/skeleton/battlegladeboneshumandark.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/elwynn/passivedoodads/skeleton/battlegladeskullhumandark.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/karazahn/passivedoodads/karazahnwebs/karazahnweb01.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/karazahn/passivedoodads/karazahnwebs/karazahnweb02.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/karazahn/passivedoodads/karazahnwebs/karazahnweb03.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/bridge/jaguarstatue.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant06.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant07.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant08.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/strangleplant10.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornfern05.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant01.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/detail/stranglethornplant02.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins05.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins06.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins07.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/ruins/stranglethornruins08.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/serpentstatue02/serpentstatue02.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonpottery/trolldungeonpottery01.m2".
+727124 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonpottery/trolldungeonpottery02.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonpottery/trolldungeonpottery03.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trolldungeonsacks/trolldungeonsacks.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/stranglethorn/passivedoodads/trollruinsgong/trollruinsgong03.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsbonepile02.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsskull02.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/theblastedlands/passivedoodads/bones/blastedlandsspine01.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/barrel/westfallbarrel01.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/crate/westfallcrate.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/westfall/passivedoodads/utensils/bowl.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/spiderarea/nastyspiderweb01.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/spiderarea/nastyspiderweb02.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/spiderarea/nastyspiderweb03.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/spiderarea/spiderpod01.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/spiderarea/spiderpod02.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree01.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree02.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree03.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree04.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/azeroth/zulgurub/passivedoodads/trees/zulgurubtree05.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/bottles/greenbottle01.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/buckets/cavekoboldbucket.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/crates/replacecrate01.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/generic/human/passive doodads/crates/stormwindcrate01.m2".
+727125 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/bones/wailingcavernshangingbones01.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/bowls/bowlwood01.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/braziers/smallbrazierpurple01.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/braziers/tallbrazier01.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/weapons/orcspear03.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/generic/orc/passive doodads/weapons/orcsword02.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/barrel/brokenbarrel02.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/crate01/crate01.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/crate02/crate02.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/furniture/containers/barrel02.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/furniture/containers/crate03.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/furniture/containers/sack01.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/furniture/containers/sack02.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/candle01.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/candle02.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/candle03.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/generic/passivedoodads/lights/torch.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/tikimasks/troll_tikimask01.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/tikimasks/troll_tikimask02.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/generic/troll/passive doodads/trollskullpile/trollskullpile.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/ashenvale/passivedoodads/ashenvaletreelogs/ashenvaletreelog02.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree02.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree03.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree04.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree05.m2".
+727126 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/kalidar/passivedoodads/kalidartreelogs/kalidartreelog01.m2".
+727126 - (MapTile.cpp:661): [Debug] Added object "world/wmo/azeroth/buildings/zulgurub/zulgurubcity.wmo".
+727126 - (MapTile.cpp:661): [Debug] Added object "world/wmo/kalimdor/collidabledoodads/tanaris/trolltent/trolltentsand01.wmo".
+727126 - (MapTile.cpp:721): [Debug] Added 394 doodads to MDDF
+727126 - (MapTile.cpp:766): [Debug] Added 9 wmos to MODF
+727179 - (MPQ.cpp:334): [Debug] Save file to: I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_35_55.adt
+727179 - (MPQ.cpp:348): [Error] Is "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_35_55.adt" really a location I can write to? Saving failed.
+727179 - (MPQ.cpp:354): Saving file "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_35_55.adt".
+727182 - (MapTile.cpp:475): Saving ADT "World\Maps\Zul'gurub\Zul'gurub_36_55.adt".
+727184 - (MapTile.cpp:606): [Debug] Added texture "tileset/deadwind pass/deadwindpassdirt.blp".
+727184 - (MapTile.cpp:606): [Debug] Added texture "tileset/deadwind pass/deadwindpassrockbase.blp".
+727184 - (MapTile.cpp:606): [Debug] Added texture "tileset/deadwind pass/deadwindpassshale.blp".
+727184 - (MapTile.cpp:606): [Debug] Added texture "tileset/deadwind pass/deadwindpassweb.blp".
+727184 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethorndirt03.blp".
+727184 - (MapTile.cpp:606): [Debug] Added texture "tileset/stranglethorn/stranglethornmossroot01.blp".
+727184 - (MapTile.cpp:606): [Debug] Added texture "tileset/the blasted lands/blastedlandsrockhighlight01.blp".
+727184 - (MapTile.cpp:606): [Debug] Added texture "tileset/wetlands/wetlandsbaserock.blp".
+727184 - (MapTile.cpp:606): [Debug] Added texture "tileset/wetlands/wetlandsdirtmoss01.blp".
+727184 - (MapTile.cpp:606): [Debug] Added texture "tileset/wetlands/wetlandsgrassdark02.blp".
+727184 - (MapTile.cpp:624): [Debug] Added model "world/kalimdor/feralas/passivedoodads/tree/feralastree02.m2".
+727184 - (MapTile.cpp:721): [Debug] Added 1 doodads to MDDF
+727184 - (MapTile.cpp:766): [Debug] Added 0 wmos to MODF
+727208 - (MPQ.cpp:334): [Debug] Save file to: I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_36_55.adt
+727208 - (MPQ.cpp:348): [Error] Is "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_36_55.adt" really a location I can write to? Saving failed.
+727208 - (MPQ.cpp:354): Saving file "I:/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/world/maps/zul'gurub/zul'gurub_36_55.adt".
+734500 - (main_window.cpp:261): [Debug] No bookmarks file.

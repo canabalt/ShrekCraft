@@ -1,3 +1,0 @@
-On mesh 0
-Comment=group without material
-  Line=group without material

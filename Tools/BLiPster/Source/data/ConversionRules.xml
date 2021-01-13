@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Conversions>
+  <Conversion>
+    <Source>BLP_PAL_A0</Source>
+    <Target>PNG_PAL</Target>
+  </Conversion>
+  <Conversion>
+    <Source>BLP_PAL_A1</Source>
+    <Target>PNG_PAL_MASK</Target>
+  </Conversion>
+  <Conversion>
+    <Source>BLP_PAL_A4</Source>
+    <Target>PNG_RGBA</Target>
+  </Conversion>
+  <Conversion>
+    <Source>BLP_PAL_A8</Source>
+    <Target>PNG_RGBA</Target>
+  </Conversion>
+  <Conversion>
+    <Source>BLP_DXT1_A0</Source>
+    <Target>PNG_RGB</Target>
+  </Conversion>
+  <Conversion>
+    <Source>BLP_DXT1_A1</Source>
+    <Target>PNG_RGBA</Target>
+  </Conversion>
+  <Conversion>
+    <Source>BLP_DXT3</Source>
+    <Target>PNG_RGBA</Target>
+  </Conversion>
+  <Conversion>
+    <Source>BLP_DXT5</Source>
+    <Target>PNG_RGBA</Target>
+  </Conversion>
+  <Conversion>
+    <Source>PNG_PAL</Source>
+    <Target>BLP_PAL_A0</Target>
+  </Conversion>
+  <Conversion>
+    <Source>PNG_PAL_MASK</Source>
+    <Target>BLP_PAL_A1</Target>
+  </Conversion>
+  <Conversion>
+    <Source>PNG_RGB</Source>
+    <Target>BLP_DXT1_A0</Target>
+  </Conversion>
+  <Conversion>
+    <Source>PNG_RGBA</Source>
+    <Target>BLP_DXT3</Target>
+  </Conversion>
+</Conversions>
+

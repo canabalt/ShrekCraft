@@ -1,0 +1,214 @@
+46 - (application.cpp:213): Noggit Studio - 3.2614
+46 - (application.cpp:237): Game path: "K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft"
+47 - (application.cpp:242): Project path: K:/Reinstalls/Wow Modding 2018/Programs/Noggit 3.2614/Shrek/
+47 - (application.cpp:114): Locale: enUS
+60 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\common.MPQ
+68 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\common-2.MPQ
+70 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\expansion.MPQ
+73 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\lichking.MPQ
+80 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\patch.MPQ
+82 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\patch-2.MPQ
+83 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\patch-3.MPQ
+83 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\patch-a.MPQ
+84 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\patch-b.MPQ
+84 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\patch-c.MPQ
+84 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\patch-g.MPQ
+85 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\patch-m.MPQ
+86 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\patch-s.MPQ
+86 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\patch-t.MPQ
+86 - (MPQ.cpp:49): [Error] Error opening archive: K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\patch-z.MPQ
+88 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\enUS/locale-enUS.MPQ
+88 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\enUS/expansion-locale-enUS.MPQ
+88 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\enUS/lichking-locale-enUS.MPQ
+89 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\enUS/patch-enUS.MPQ
+89 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\enUS/patch-enUS-2.MPQ
+89 - (MPQ.cpp:54): [Debug] Opened archive K:/Reinstalls/Wow Modding 2018/SHREKCRAFT 2020/Shrekcraft\Data\enUS/patch-enUS-3.MPQ
+209 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\AreaTable.dbc"
+268 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\Map.dbc"
+335 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\LoadingScreens.dbc"
+347 - (MPQ.cpp:106): [Debug] Completed listfile loading: 196922 files
+348 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\Light.dbc"
+348 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\LightParams.dbc"
+348 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\LightSkybox.dbc"
+353 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\LightIntBand.dbc"
+356 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\LightFloatBand.dbc"
+357 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\GroundEffectDoodad.dbc"
+359 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\GroundEffectTexture.dbc"
+360 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\LiquidType.dbc"
+784 - (application.cpp:278): [Debug] GL: Version: 4.6.0 NVIDIA 441.66
+784 - (application.cpp:279): [Debug] GL: Vendor: NVIDIA Corporation
+784 - (application.cpp:280): [Debug] GL: Renderer: GeForce GTX 1660 SUPER/PCIe/SSE2
+845 - (main_window.cpp:261): [Debug] No bookmarks file.
+1144 - (World.cpp:230): World 451: development has no WDT file!
+1151 - (World.cpp:230): World 582: Transport176244 has no WDT file!
+1151 - (World.cpp:230): World 584: Transport176231 has no WDT file!
+1151 - (World.cpp:230): World 586: Transport181645 has no WDT file!
+1151 - (World.cpp:230): World 587: Transport177233 has no WDT file!
+1151 - (World.cpp:230): World 588: Transport176310 has no WDT file!
+1151 - (World.cpp:230): World 589: Transport175080 has no WDT file!
+1151 - (World.cpp:230): World 590: Transport176495 has no WDT file!
+1151 - (World.cpp:230): World 591: Transport164871 has no WDT file!
+1152 - (World.cpp:230): World 592: Transport186238 has no WDT file!
+1152 - (World.cpp:230): World 593: Transport20808 has no WDT file!
+1152 - (World.cpp:230): World 594: Transport187038 has no WDT file!
+1152 - (World.cpp:230): World 596: Transport187263 has no WDT file!
+1154 - (World.cpp:230): World 610: Transport_Tirisfal _Vengeance_Landing has no WDT file!
+1154 - (World.cpp:230): World 612: Transport_Menethil_Valgarde has no WDT file!
+1155 - (World.cpp:230): World 613: Transport_Orgrimmar_Warsong_Hold has no WDT file!
+1155 - (World.cpp:230): World 614: Transport_Stormwind_Valiance_Keep has no WDT file!
+1156 - (World.cpp:230): World 620: Transport_Moa'ki_Unu'pe has no WDT file!
+1156 - (World.cpp:230): World 621: Transport_Moa'ki_Kamagua has no WDT file!
+1156 - (World.cpp:230): World 622: Transport192241 has no WDT file!
+1156 - (World.cpp:230): World 623: Transport192242 has no WDT file!
+1156 - (World.cpp:230): World 641: Transport_AllianceAirshipBG has no WDT file!
+1156 - (World.cpp:230): World 642: Transport_HordeAirshipBG has no WDT file!
+1156 - (World.cpp:230): World 647: Transport_Orgrimmar_to_Thunderbluff has no WDT file!
+1157 - (World.cpp:230): World 672: Transport197347 has no WDT file!
+1157 - (World.cpp:230): World 673: Transport197348 has no WDT file!
+1157 - (World.cpp:230): World 712: Transport197349 has no WDT file!
+1157 - (World.cpp:230): World 713: Transport197350 has no WDT file!
+1157 - (World.cpp:230): World 718: Transport201834 has no WDT file!
+1158 - (World.cpp:230): World 725: Vaalbara has no WDT file!
+3795 - (World.cpp:277): [Debug] Loading world "OgreSwamp".
+6946 - (MapTile.cpp:51): Opening tile 13, 13 ("World\Maps\OgreSwamp\OgreSwamp_13_13.adt") from disk.
+6986 - (MapTile.cpp:303): [Debug] Done loading tile 13,13.
+6999 - (MapTile.cpp:51): Opening tile 12, 12 ("World\Maps\OgreSwamp\OgreSwamp_12_12.adt") from disk.
+7001 - (MapTile.cpp:51): Opening tile 13, 12 ("World\Maps\OgreSwamp\OgreSwamp_13_12.adt") from disk.
+7034 - (MapTile.cpp:303): [Debug] Done loading tile 13,12.
+7035 - (MapTile.cpp:303): [Debug] Done loading tile 12,12.
+7037 - (MapTile.cpp:51): Opening tile 14, 12 ("World\Maps\OgreSwamp\OgreSwamp_14_12.adt") from disk.
+7038 - (MapTile.cpp:51): Opening tile 12, 13 ("World\Maps\OgreSwamp\OgreSwamp_12_13.adt") from disk.
+7079 - (MapTile.cpp:303): [Debug] Done loading tile 14,12.
+7081 - (MapTile.cpp:51): Opening tile 14, 13 ("World\Maps\OgreSwamp\OgreSwamp_14_13.adt") from disk.
+7082 - (MapTile.cpp:303): [Debug] Done loading tile 12,13.
+7084 - (MapTile.cpp:51): Opening tile 12, 14 ("World\Maps\OgreSwamp\OgreSwamp_12_14.adt") from disk.
+7125 - (MapTile.cpp:303): [Debug] Done loading tile 14,13.
+7127 - (MapTile.cpp:7127 - (MapTile.cpp:303): [Debug] Done loading tile 51): Opening tile 13, 12,14.
+14 ("World\Maps\OgreSwamp\OgreSwamp_13_14.adt") from disk.
+7129 - (MapTile.cpp:51): Opening tile 14, 14 ("World\Maps\OgreSwamp\OgreSwamp_14_14.adt") from disk.
+7164 - (MapTile.cpp:303): [Debug] Done loading tile 13,14.
+7168 - (MapTile.cpp:303): [Debug] Done loading tile 14,14.
+10246 - (MapTile.cpp:51): Opening tile 11, 12 ("World\Maps\OgreSwamp\OgreSwamp_11_12.adt") from disk.
+10248 - (MapTile.cpp:51): Opening tile 11, 13 ("World\Maps\OgreSwamp\OgreSwamp_11_13.adt") from disk.
+10284 - (MapTile.cpp:303): [Debug] Done loading tile 11,12.
+10286 - (MapTile.cpp:303): [Debug] Done loading tile 11,13.
+10286 - (MapTile.cpp:51): Opening tile 11, 14 ("World\Maps\OgreSwamp\OgreSwamp_11_14.adt") from disk.
+10324 - (MapTile.cpp:303): [Debug] Done loading tile 11,14.
+13693 - (MapTile.cpp:51): Opening tile 10, 12 ("World\Maps\OgreSwamp\OgreSwamp_10_12.adt") from disk.
+13694 - (MapTile.cpp:51): Opening tile 10, 13 ("World\Maps\OgreSwamp\OgreSwamp_10_13.adt") from disk.
+13736 - (MapTile.cpp:303): [Debug] Done loading tile 10,13.
+13736 - (MapTile.cpp:303): [Debug] Done loading tile 10,12.
+13738 - (MapTile.cpp:51): Opening tile 10, 14 ("World\Maps\OgreSwamp\OgreSwamp_10_14.adt") from disk.
+13779 - (MapTile.cpp:303): [Debug] Done loading tile 10,14.
+33010 - (MapTile.cpp:51): Opening tile 15, 12 ("World\Maps\OgreSwamp\OgreSwamp_15_12.adt") from disk.
+33012 - (MapTile.cpp:51): Opening tile 15, 13 ("World\Maps\OgreSwamp\OgreSwamp_15_13.adt") from disk.
+33053 - (MapTile.cpp:303): [Debug] Done loading tile 15,13.
+33054 - (MapTile.cpp:303): [Debug] Done loading tile 15,12.
+33056 - (MapTile.cpp:51): Opening tile 15, 14 ("World\Maps\OgreSwamp\OgreSwamp_15_14.adt") from disk.
+33106 - (MapTile.cpp:303): [Debug] Done loading tile 15,14.
+35216 - (MapTile.cpp:51): Opening tile 12, 15 ("World\Maps\OgreSwamp\OgreSwamp_12_15.adt") from disk.
+35218 - (MapTile.cpp:51): Opening tile 13, 15 ("World\Maps\OgreSwamp\OgreSwamp_13_15.adt") from disk.
+35256 - (MapTile.cpp:303): [Debug] Done loading tile 13,15.
+35258 - (MapTile.cpp:51): Opening tile 14, 15 ("World\Maps\OgreSwamp\OgreSwamp_14_15.adt") from disk.
+35260 - (MapTile.cpp:303): [Debug] Done loading tile 12,15.
+35292 - (MapTile.cpp:303): [Debug] Done loading tile 14,15.
+45690 - (MapTile.cpp:51): Opening tile 11, 15 ("World\Maps\OgreSwamp\OgreSwamp_11_15.adt") from disk.
+45721 - (MapTile.cpp:303): [Debug] Done loading tile 11,15.
+55978 - (MapTile.cpp:51): Opening tile 11, 16 ("World\Maps\OgreSwamp\OgreSwamp_11_16.adt") from disk.
+55980 - (MapTile.cpp:51): Opening tile 12, 16 ("World\Maps\OgreSwamp\OgreSwamp_12_16.adt") from disk.
+56015 - (MapTile.cpp:303): [Debug] Done loading tile 11,16.
+56017 - (MapTile.cpp:51): Opening tile 13, 16 ("World\Maps\OgreSwamp\OgreSwamp_13_16.adt") from disk.
+56017 - (MapTile.cpp:303): [Debug] Done loading tile 12,16.
+56042 - (MapTile.cpp:303): [Debug] Done loading tile 13,16.
+68694 - (MapTile.cpp:51): Opening tile 14, 16 ("World\Maps\OgreSwamp\OgreSwamp_14_16.adt") from disk.
+68717 - (MapTile.cpp:303): [Debug] Done loading tile 14,16.
+-414720 - (error_handling.cpp:85): [Error] There was an exception of type "SIGABRT"
+"Abnormal termination, such as instigated by the abort function. (Abort.)".
+Please excuse the inconvenience. You may want to report this error including the log to the developers.
+
+-414718 - (StackWalker.cpp:1133): [Error] OS-Version: 6.2.9200 () 0x100-0x1
+-414408 - (StackWalker.cpp:1133): [Error] w:\noggit\repo\include\win\stackwalker.cpp (855): StackWalker::ShowCallstack
+-414408 - (StackWalker.cpp:1133): [Error] w:\noggit\repo\src\noggit\error_handling.cpp (37): `anonymous namespace'::printStacktrace
+-414407 - (StackWalker.cpp:1133): [Error] w:\noggit\repo\src\noggit\error_handling.cpp (94): `anonymous namespace'::leave
+-414407 - (StackWalker.cpp:1133): [Error] 00007FF85C54CB7D (ucrtbase): (filename not available): raise
+-414407 - (StackWalker.cpp:1133): [Error] 00007FF85C54DB81 (ucrtbase): (filename not available): abort
+-414407 - (StackWalker.cpp:1133): [Error] 00007FF85C54D2DF (ucrtbase): (filename not available): terminate
+-414383 - (StackWalker.cpp:1133): [Error] f:\dd\vctools\crt\vcstartup\src\utility\utility_desktop.cpp (75): __scrt_unhandled_exception_filter
+-414383 - (StackWalker.cpp:1133): [Error] 00007FF85C85FEEA (KERNELBASE): (filename not available): UnhandledExceptionFilter
+-414383 - (StackWalker.cpp:1133): [Error] 00007FF85F424AB2 (ntdll): (filename not available): memset
+-414383 - (StackWalker.cpp:1133): [Error] 00007FF85F40C656 (ntdll): (filename not available): _C_specific_handler
+-414383 - (StackWalker.cpp:1133): [Error] 00007FF85F4211CF (ntdll): (filename not available): _chkstk
+-414383 - (StackWalker.cpp:1133): [Error] 00007FF85F3EA209 (ntdll): (filename not available): RtlRaiseException
+-414383 - (StackWalker.cpp:1133): [Error] 00007FF85F3E9FC3 (ntdll): (filename not available): RtlRaiseException
+-414383 - (StackWalker.cpp:1133): [Error] 00007FF85C79A799 (KERNELBASE): (filename not available): RaiseException
+-414383 - (StackWalker.cpp:1133): [Error] 00007FF84D104880 (VCRUNTIME140): (filename not available): CxxThrowException
+-414360 - (StackWalker.cpp:1133): [Error] w:\noggit\repo\src\opengl\context.cpp (61): opengl::`anonymous namespace'::verify_context_and_check_for_gl_errors::verify_context_and_check_for_gl_errors
+-414354 - (StackWalker.cpp:1133): [Error] w:\noggit\repo\src\opengl\context.cpp (759): opengl::context::getFloatv
+-414350 - (StackWalker.cpp:1133): [Error] w:\noggit\repo\src\noggit\mapview.cpp (1962): MapView::intersect_ray
+-414335 - (StackWalker.cpp:1133): [Error] w:\noggit\repo\src\noggit\mapview.cpp (1982): MapView::intersect_result
+-414335 - (StackWalker.cpp:1133): [Error] w:\noggit\repo\src\noggit\mapview.cpp (2026): MapView::update_cursor_pos
+-414335 - (StackWalker.cpp:1133): [Error] w:\noggit\repo\src\noggit\mapview.cpp (1333): MapView::tick
+-414335 - (StackWalker.cpp:1133): [Error] w:\noggit\repo\src\noggit\mapview.cpp (1254): MapView::paintGL
+-414334 - (StackWalker.cpp:1133): [Error] 000000006C9389B3 (Qt5Widgets): (filename not available): QOpenGLWidget::grabFramebuffer
+-414334 - (StackWalker.cpp:1133): [Error] 000000006C90D13F (Qt5Widgets): (filename not available): QWidget::event
+-414334 - (StackWalker.cpp:1133): [Error] 000000006C8E8790 (Qt5Widgets): (filename not available): QApplicationPrivate::notify_helper
+-414334 - (StackWalker.cpp:1133): [Error] 000000006C8E7677 (Qt5Widgets): (filename not available): QApplication::notify
+-414334 - (StackWalker.cpp:1133): [Error] 000000006C50F9B9 (Qt5Core): (filename not available): QCoreApplication::notifyInternal2
+-414334 - (StackWalker.cpp:1133): [Error] 000000006C9178AA (Qt5Widgets): (filename not available): QWidgetPrivate::sendPaintEvent
+-414334 - (StackWalker.cpp:1133): [Error] 000000006C8EECD6 (Qt5Widgets): (filename not available): QApplication::windowIcon
+-414334 - (StackWalker.cpp:1133): [Error] 000000006C90D5F1 (Qt5Widgets): (filename not available): QWidget::event
+-414334 - (StackWalker.cpp:1133): [Error] 000000006CA0C81B (Qt5Widgets): (filename not available): QMainWindow::event
+-414334 - (StackWalker.cpp:1133): [Error] 000000006C8E8790 (Qt5Widgets): (filename not available): QApplicationPrivate::notify_helper
+-414334 - (StackWalker.cpp:1133): [Error] 000000006C8E7677 (Qt5Widgets): (filename not available): QApplication::notify
+-414334 - (StackWalker.cpp:1133): [Error] 000000006C50F9B9 (Qt5Core): (filename not available): QCoreApplication::notifyInternal2
+-414334 - (StackWalker.cpp:1133): [Error] 000000006C5116DD (Qt5Core): (filename not available): QCoreApplicationPrivate::sendPostedEvents
+-414334 - (StackWalker.cpp:1133): [Error] 00007FFFE6E3F9CF (qwindows): (filename not available): qt_plugin_query_metadata
+-414334 - (StackWalker.cpp:1133): [Error] 000000006C557328 (Qt5Core): (filename not available): QEventDispatcherWin32::processEvents
+-414334 - (StackWalker.cpp:1133): [Error] 00007FF85D445C0D (USER32): (filename not available): CallWindowProcW
+-414334 - (StackWalker.cpp:1133): [Error] 00007FF85D445602 (USER32): (filename not available): DispatchMessageW
+-414334 - (StackWalker.cpp:1133): [Error] 000000006C556A26 (Qt5Core): (filename not available): QEventDispatcherWin32::processEvents
+-414333 - (StackWalker.cpp:1133): [Error] 00007FFFE6E3F9A9 (qwindows): (filename not available): qt_plugin_query_metadata
+-414333 - (StackWalker.cpp:1133): [Error] 000000006C50C043 (Qt5Core): (filename not available): QEventLoop::exec
+-414333 - (StackWalker.cpp:1133): [Error] 000000006C50E734 (Qt5Core): (filename not available): QCoreApplication::exec
+-414333 - (StackWalker.cpp:1133): [Error] w:\noggit\repo\src\noggit\application.cpp (342): main
+-414333 - (StackWalker.cpp:1133): [Error] c:\users\qt\work\qt\qtbase\src\winmain\qtmain_win.cpp (104): WinMain
+-414333 - (StackWalker.cpp:1133): [Error] f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl (283): __scrt_common_main_seh
+-414333 - (StackWalker.cpp:1133): [Error] 00007FF85D6F7BD4 (KERNEL32): (filename not available): BaseThreadInitThunk
+-414333 - (StackWalker.cpp:1133): [Error] 00007FF85F3ECE51 (ntdll): (filename not available): RtlUserThreadStart
+-414326 - (multimap_with_normalized_key.hpp:30): [Debug] shrekhouse/orgehut2.wmo: 1
+-414326 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/azeroth/buildings/chapel/duskwoodchapel.wmo: 1
+-414325 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/azeroth/buildings/duskwoodabandoned_human_farm/duskwoodabandoned_human_farm.wmo: 1
+-414325 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/azeroth/buildings/keepwall/gate03.wmo: 1
+-414325 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/azeroth/buildings/keepwall/lowwallpost01.wmo: 15
+-414325 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/azeroth/buildings/keepwall/wallpiece03.wmo: 16
+-414325 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/azeroth/buildings/prison_camp/prisonoubliette.wmo: 1
+-414325 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/azeroth/buildings/westfall_barracks/westfall_barracks.wmo: 2
+-414325 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/azeroth/buildings/westfall_blacksmith/westfall_blacksmith.wmo: 1
+-414325 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/azeroth/buildings/westfall_magetower/westfall_magetower.wmo: 1
+-414325 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/azeroth/buildings/westfall_stable/westfall_stableb.wmo: 1
+-414325 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/azeroth/collidable doodads/elwynn/lionbridge/elwynnlionbridge.wmo: 1
+-414325 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/azeroth/collidable doodads/swampofsorrows/bridgestranglethorn/bridgestranglethorn.wmo: 1
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/azeroth/collidable doodads/swampofsorrows/swampbridge01/swampbridge01.wmo: 4
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/azeroth/collidable doodads/swampofsorrows/swampdock01/swampdock01.wmo: 2
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/dungeon/az_karazahn/kharazan.wmo: 1
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/dungeon/md_caveden/md_mushroomden.wmo: 2
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/dungeon/md_crypt/md_crypt_d.wmo: 1
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/dungeon/md_mountaincave/md_mushroomcave07.wmo: 1
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/dungeon/md_ogremound/md_grogremound1room.wmo: 1
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/dungeon/md_ogremound/md_ogremound.wmo: 1
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/dungeon/md_ogremound/md_ogremound1room.wmo: 2
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/dungeon/md_shipwreck/shipwreck_c.wmo: 1
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/kalimdor/buildings/orcblacksmith/swamporcblacksmith.wmo: 1
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/kalimdor/buildings/orcgreathall/swamporcgreathall.wmo: 1
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/kalimdor/buildings/orcmedium/swamporcmedium.wmo: 1
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/kalimdor/buildings/orctower/swamporctower.wmo: 1
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/kalimdor/buildings/trollburrow/swamptrollburrow.wmo: 3
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/kalimdor/collidabledoodads/darkshore/giantseaturtle01/giantseaturtle01.wmo: 2
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/kalimdor/collidabledoodads/darkshore/giantseaturtle02/giantseaturtle02.wmo: 2
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/kalimdor/collidabledoodads/mulgore/taurentent01/taurentent01.wmo: 1
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/kalimdor/collidabledoodads/stonetalon/landingpad/landingpad01.wmo: 1
+-414324 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/lorderon/collidabledoodads/arathihighlands/humanruinedbuildings/huruinedbuilding_collapsed.wmo: 1
+-414323 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/lorderon/collidabledoodads/arathihighlands/humanruinedbuildings/huruinedbuildingssm01_winecellar.wmo: 1
+-414323 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/lorderon/collidabledoodads/arathihighlands/humanruinedbuildings/huruinedbuildingssmall01.wmo: 2
+-414323 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/outland/draenibuildings/draenihuthooded01.wmo: 1
+-414323 - (multimap_with_normalized_key.hpp:30): [Debug] world/wmo/outland/draenibuildings/outland_draeni_hut_1.wmo: 2

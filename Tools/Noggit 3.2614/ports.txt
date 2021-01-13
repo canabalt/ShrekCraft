@@ -1,0 +1,30 @@
+Map: Duloc Dutchy: The Onion Fields on ADT 12 15
+Trinity:
+.go 8998.67 10186.8 25.2934 726
+ArcEmu:
+.worldport 726 8998.67 10186.8 25.2934 
+
+Map: My Swamp: I dunno a lake or something on ADT 13 13
+Trinity:
+.go 9855.44 9656.53 28.4084 726
+ArcEmu:
+.worldport 726 9855.44 9656.53 28.4084 
+
+Map: My Swamp: I dunno a lake or something on ADT 13 13
+Trinity:
+.go 9855.44 9656.53 28.4084 726
+ArcEmu:
+.worldport 726 9855.44 9656.53 28.4084 
+
+Map: My Swamp: I dunno a lake or something on ADT 13 13
+Trinity:
+.go 9855.44 9656.53 28.4084 726
+ArcEmu:
+.worldport 726 9855.44 9656.53 28.4084 
+
+Map: Hellfire Ramparts on ADT 28 34
+Trinity:
+.go -1170.65 1985.44 270.65 543
+ArcEmu:
+.worldport 543 -1170.65 1985.44 270.65 
+

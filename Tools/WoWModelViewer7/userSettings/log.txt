@@ -1,0 +1,199 @@
+19:32:49: Starting:
+World of Warcraft Model Viewer v0.7.0.1 r142 Windows 32-bit
+
+
+19:32:49: Searching for MPQ archive patch-3.mpq...
+19:32:49: - Found MPQ archive: D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\patch-3.MPQ
+19:32:49: Searching for MPQ archive patch-2.mpq...
+19:32:49: - Found MPQ archive: D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\patch-2.MPQ
+19:32:49: Searching for MPQ archive patch.mpq...
+19:32:49: - Found MPQ archive: D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\patch.MPQ
+19:32:49: Searching for MPQ archive expansion3.mpq...
+19:32:49: Searching for MPQ archive expansion2.mpq...
+19:32:49: Searching for MPQ archive lichking.mpq...
+19:32:49: - Found MPQ archive: D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\lichking.MPQ
+19:32:49: Searching for MPQ archive expansion.mpq...
+19:32:49: - Found MPQ archive: D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\expansion.MPQ
+19:32:49: Searching for MPQ archive common-3.mpq...
+19:32:49: Searching for MPQ archive common-2.mpq...
+19:32:49: - Found MPQ archive: D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\common-2.MPQ
+19:32:49: Searching for MPQ archive common.mpq...
+19:32:49: - Found MPQ archive: D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\common.MPQ
+19:32:49: Initiating Objects...
+19:32:49: Creating Anim Control...
+19:32:49: Creating Char Control...
+19:32:50: Creating Light Control...
+19:32:50: Creating Model Control...
+19:32:50: Creating Settings Control...
+19:32:50: Creating Model Bank Control...
+19:32:50: Creating Model Opened...
+19:32:50: Creating Model Export Options Control...
+19:32:50: Creating OpenGL Canvas...
+19:32:50: Initiating OpenGL...
+19:32:50: Info: GLEW successfully initiated.
+
+19:32:50: Video Renderer: GeForce GTX 1660 SUPER/PCIe/SSE2
+19:32:50: Video Vendor: NVIDIA Corporation
+19:32:50: Driver Version: 4.6.0 NVIDIA 460.79
+19:32:50: Support wglPixelFormat: true
+19:32:50: Support Texture Compression: true
+19:32:50: Support Multi-Textures: true
+19:32:50: Support Draw Range Elements: true
+19:32:50: Support Vertex Buffer Objects: true
+19:32:50: Support Point Sprites: true
+19:32:50: Support Pixel Shaders: true
+19:32:50: Support Vertex Shaders: true
+19:32:50: Support GLSL: true
+19:32:50: Support Anti-Aliasing: true
+19:32:50: Support Pixel Buffer Objects: true
+19:32:50: Support Frame Buffer Objects: true
+19:32:50: Support Non-Power-of-Two: true
+19:32:50: Support Rectangle Textures: true
+19:32:50: Support OpenGL 2.0: true
+19:32:50: Max Rectangle Texture Size Supported: 32768
+19:32:50: Max Texture Size Supported: 32768
+
+19:32:51: Loading Session settings from: D:\SHREKCRAFT 2021\Programs\WoWModelViewer7/userSettings/Config.ini
+
+19:32:51: Initiating File Menu..
+19:32:51: Initiating GUI Docking.
+19:32:51: Max Lights used: 4
+19:32:51: Setting OpenGL render state...
+19:32:51: Initiating Archives...
+
+19:32:51: Game Data Path: D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\
+19:32:51: Use Local Files: false
+
+19:32:51: Opening D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\patch-3.MPQ
+19:32:51: Opening D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\patch-2.MPQ
+19:32:52: Opening D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\patch.MPQ
+19:32:52: Opening D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\lichking.MPQ
+19:32:52: Opening D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\expansion.MPQ
+19:32:52: Opening D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\common-2.MPQ
+19:32:52: Opening D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\common.MPQ
+19:32:52: Opening D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\enUS\patch-enUS-3.MPQ
+19:32:52: Opening D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\enUS\patch-enUS-2.MPQ
+19:32:52: Opening D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\enUS\patch-enUS.MPQ
+19:32:52: Opening D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\enUS\lichking-locale-enUS.MPQ
+19:32:52: Opening D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\enUS\expansion-locale-enUS.MPQ
+19:32:52: Opening D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\enUS\locale-enUS.MPQ
+19:32:52: Opening D:\SHREKCRAFT 2021\Shrekcraft GameFolder\Data\enUS\base-enUS.MPQ
+19:32:52: Loaded Content TOC: v3.03.00
+19:32:52: Loaded Content Version: 12340
+19:32:52: InitMPQArchives result: true
+19:32:56: Initiating Databases...
+19:32:57: Finished initiating database files.
+19:32:57: Info: GUI Layout loaded from previous session.
+19:32:57: WoW Model Viewer successfully loaded!
+----
+
+19:33:08: Loading WMO Busta\Shrekhouse\orgehut.wmo
+19:33:08: Loading texture: Dungeons\Textures\Floor\Mm_Ogrmnd_C_Floor_02.Blp
+19:33:08: Loading texture: Dungeons\Textures\Pillar\Mm_Ogrmnd_C_Pillar_01.Blp
+19:33:08: Loading texture: Dungeons\Textures\Pillar\Mm_Ogrmnd_C_Sticks_01.Blp
+19:33:08: Loading texture: Dungeons\Textures\Rock\Mm_Ogrmnd_C_Rock_01.Blp
+19:33:08: Loading texture: Dungeons\Textures\Rock\Mm_Ogrmnd_C_Rock_02.Blp
+19:33:08: Loading texture: Dungeons\Textures\Rock\Mm_Ogrmnd_C_Rock_05.Blp
+19:33:08: Loading texture: Dungeons\Textures\Rock\Mm_Ogrmnd_C_Rock_06.Blp
+19:33:08: Loading texture: Dungeons\Textures\Rock\Mm_Ogrmnd_Rock_03A.Blp
+19:33:08: Loading texture: Dungeons\Textures\Trim\Mm_Ogrmnd_C_Bracket_01.Blp
+19:33:08: Loading texture: Dungeons\Textures\Walls\Mm_Ogrmnd_C_Wall_02.Blp
+19:33:08: Loading texture: Dungeons\Textures\Pillar\Mm_Ogrmnd_Pillar_01.Blp
+19:33:08: Loading texture: Dungeons\Textures\Trim\Mm_Ogrmnd_C_Trim_01.Blp
+19:33:08: Original Vertex Colors Gathered.
+19:33:08: Gathering New Vertex Colors...
+19:33:08: Loading model: World\Expansion01\Doodads\Zangar\Mushroom\Zangarmushroom04.M2
+
+19:33:08: Loading texture: WORLD\EXPANSION01\DOODADS\ZANGAR\MUSHROOM\ZANGAR_MUSHROOM_MASTER.BLP
+19:33:08: Info: Added WORLD\EXPANSION01\DOODADS\ZANGAR\MUSHROOM\ZANGAR_MUSHROOM_MASTER.BLP to the TextureList.
+19:33:08: Loading model: World\Expansion01\Doodads\Zangar\Mushroom\Zangarmushroom05.M2
+
+19:33:08: Loading texture: WORLD\EXPANSION01\DOODADS\ZANGAR\MUSHROOM\ZANGARMUSHROOMS_SMALL01.BLP
+19:33:08: Info: Added WORLD\EXPANSION01\DOODADS\ZANGAR\MUSHROOM\ZANGARMUSHROOMS_SMALL01.BLP to the TextureList.
+19:33:08: Loading model: World\Expansion01\Doodads\Zangar\Mushroom\Zangarmushroom07_Blue.M2
+
+19:33:08: Info: Added WORLD\EXPANSION01\DOODADS\ZANGAR\MUSHROOM\ZANGAR_MUSHROOM_MASTER.BLP to the TextureList.
+19:33:08: Loading model: World\Generic\Human\Passive Doodads\Meat\Bloodymeat02.M2
+
+19:33:08: Loading texture: WORLD\GENERIC\HUMAN\PASSIVE DOODADS\MEAT\MEAT03.BLP
+19:33:08: Info: Added WORLD\GENERIC\HUMAN\PASSIVE DOODADS\MEAT\MEAT03.BLP to the TextureList.
+19:33:08: Loading texture: WORLD\GENERIC\OGRE\PASSIVE DOODADS\POODAD\FLY.BLP
+19:33:08: Info: Added WORLD\GENERIC\OGRE\PASSIVE DOODADS\POODAD\FLY.BLP to the TextureList.
+19:33:08: Loading model: World\Generic\Orc\Passive Doodads\Bowls\Bowlwood02.M2
+
+19:33:08: Loading texture: World\Generic\Orc\Passive Doodads\Bowls\WoodenBowl01.blp
+19:33:08: Info: Added World\Generic\Orc\Passive Doodads\Bowls\WoodenBowl01.blp to the TextureList.
+19:33:08: Loading model: World\Generic\Orc\Passive Doodads\Rugs\Centaurrug01.M2
+
+19:33:08: Loading texture: World\Generic\Orc\Passive Doodads\Rugs\CentaurRug01.blp
+19:33:08: Info: Added World\Generic\Orc\Passive Doodads\Rugs\CentaurRug01.blp to the TextureList.
+19:33:08: Loading model: World\Generic\Human\Passive Doodads\Food&Utensils\Cleaver01.M2
+
+19:33:08: Loading texture: World\Generic\Human\Passive Doodads\Food&Utensils\cleaver_001.blp
+19:33:08: Info: Added World\Generic\Human\Passive Doodads\Food&Utensils\cleaver_001.blp to the TextureList.
+19:33:08: Loading model: World\Generic\Orc\Passive Doodads\Jars\Jarorc02.M2
+
+19:33:08: Loading texture: WORLD\GENERIC\ORC\PASSIVE DOODADS\JARS\POTTERY01.BLP
+19:33:08: Info: Added WORLD\GENERIC\ORC\PASSIVE DOODADS\JARS\POTTERY01.BLP to the TextureList.
+19:33:08: Loading model: World\Generic\Orc\Passive Doodads\Jars\Jarorc03.M2
+
+19:33:08: Loading texture: WORLD\GENERIC\ORC\PASSIVE DOODADS\JARS\POTTERY01C.BLP
+19:33:08: Info: Added WORLD\GENERIC\ORC\PASSIVE DOODADS\JARS\POTTERY01C.BLP to the TextureList.
+19:33:08: Loading model: World\Generic\Orc\Passive Doodads\Jars\Jarorc04.M2
+
+19:33:08: Loading texture: World\Generic\Orc\Passive Doodads\Jars\Pottery01B.blp
+19:33:08: Info: Added World\Generic\Orc\Passive Doodads\Jars\Pottery01B.blp to the TextureList.
+19:33:08: Loading model: World\Generic\Orc\Passive Doodads\Jars\Jarorc05.M2
+
+19:33:08: Loading texture: World\Generic\Orc\Passive Doodads\Jars\Pottery02.blp
+19:33:08: Info: Added World\Generic\Orc\Passive Doodads\Jars\Pottery02.blp to the TextureList.
+19:33:08: Loading model: World\Kalimdor\Diremaul\Passivedoodads\Banners\Ogrestapledwallbanner02.M2
+
+19:33:08: Loading texture: WORLD\KALIMDOR\DIREMAUL\PASSIVEDOODADS\BANNERS\OGREDIREMAULPOST.BLP
+19:33:08: Info: Added WORLD\KALIMDOR\DIREMAUL\PASSIVEDOODADS\BANNERS\OGREDIREMAULPOST.BLP to the TextureList.
+19:33:08: Loading texture: World\Kalimdor\DireMaul\PassiveDoodads\Banners\TatteredOgreBanner02.blp
+19:33:08: Info: Added World\Kalimdor\DireMaul\PassiveDoodads\Banners\TatteredOgreBanner02.blp to the TextureList.
+19:33:08: Loading model: World\Generic\Ogre\Passive Doodads\Torches\Ogrewalltorch.M2
+
+19:33:08: Loading texture: WORLD\GENERIC\OGRE\PASSIVE DOODADS\TORCHES\OGRETORCH03.BLP
+19:33:08: Info: Added WORLD\GENERIC\OGRE\PASSIVE DOODADS\TORCHES\OGRETORCH03.BLP to the TextureList.
+19:33:08: Loading texture: CREATURE\FIREELEMENTAL\EMBER.BLP
+19:33:08: Info: Added CREATURE\FIREELEMENTAL\EMBER.BLP to the TextureList.
+19:33:08: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\FLAMELICKSMALL.BLP
+19:33:08: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\FLAMELICKSMALL.BLP to the TextureList.
+19:33:08: Loading model: World\Expansion01\Doodads\Generic\Ogre\Weapons\Om_Weapons_04.M2
+
+19:33:08: Loading texture: ITEM\OBJECTCOMPONENTS\WEAPON\MACE_1H_SPIKED_A_01_V01.BLP
+19:33:08: Info: Added ITEM\OBJECTCOMPONENTS\WEAPON\MACE_1H_SPIKED_A_01_V01.BLP to the TextureList.
+19:33:08: Loading model: World\Generic\Orc\Passive Doodads\Jugs\Orcjug01.M2
+
+19:33:08: Loading texture: World\Generic\Orc\Passive Doodads\BarrelsandCrates\BeerMug.blp
+19:33:08: Info: Added World\Generic\Orc\Passive Doodads\BarrelsandCrates\BeerMug.blp to the TextureList.
+19:33:08: Loading model: World\Generic\Orc\Passive Doodads\Jugs\Orcjug02.M2
+
+19:33:08: Loading texture: WORLD\GENERIC\ORC\PASSIVE DOODADS\BARRELSANDCRATES\BEERMUG.BLP
+19:33:08: Info: Added WORLD\GENERIC\ORC\PASSIVE DOODADS\BARRELSANDCRATES\BEERMUG.BLP to the TextureList.
+19:33:08: Loading model: World\Generic\Orc\Passive Doodads\Tables\Orctable01.M2
+
+19:33:08: Loading texture: World\Generic\Orc\Passive Doodads\TableCooker\OrcTableCooker.blp
+19:33:08: Info: Added World\Generic\Orc\Passive Doodads\TableCooker\OrcTableCooker.blp to the TextureList.
+19:33:08: Loading texture: World\Generic\Orc\Passive Doodads\Braziers\TallBrazier01.blp
+19:33:08: Info: Added World\Generic\Orc\Passive Doodads\Braziers\TallBrazier01.blp to the TextureList.
+19:33:08: Loading model: World\Generic\Human\Passive Doodads\Dolls\Ragdoll01.M2
+
+19:33:08: Loading texture: WORLD\GENERIC\HUMAN\PASSIVE DOODADS\DOLLS\WOODENDUMMY.BLP
+19:33:08: Info: Added WORLD\GENERIC\HUMAN\PASSIVE DOODADS\DOLLS\WOODENDUMMY.BLP to the TextureList.
+19:33:08: Loading model: World\Generic\Human\Passive Doodads\Food\Roastboarplatter.M2
+
+19:33:08: Loading texture: WORLD\GENERIC\HUMAN\PASSIVE DOODADS\FOOD\ROASTBOARSKIN.BLP
+19:33:08: Info: Added WORLD\GENERIC\HUMAN\PASSIVE DOODADS\FOOD\ROASTBOARSKIN.BLP to the TextureList.
+19:33:08: Loading texture: WORLD\GENERIC\HUMAN\PASSIVE DOODADS\FOOD\JEWELLEDDINING.BLP
+19:33:08: Info: Added WORLD\GENERIC\HUMAN\PASSIVE DOODADS\FOOD\JEWELLEDDINING.BLP to the TextureList.
+19:33:08: Loading model: World\Generic\Orc\Passive Doodads\Utensils\Serratedcleaver.M2
+
+19:33:08: Loading texture: World\Generic\Orc\Passive Doodads\Utensils\SerratedCleaver.blp
+19:33:08: Info: Added World\Generic\Orc\Passive Doodads\Utensils\SerratedCleaver.blp to the TextureList.
+19:33:08: Loading model: World\Generic\Human\Passive Doodads\Food&Utensils\Turkeyleg.M2
+
+19:33:08: Loading texture: World\Generic\Human\Passive Doodads\Food&Utensils\TurkeySkin.blp
+19:33:08: Info: Added World\Generic\Human\Passive Doodads\Food&Utensils\TurkeySkin.blp to the TextureList.
